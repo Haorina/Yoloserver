@@ -1,0 +1,2681 @@
+[
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "functional",
+        "importPath": "torch.nn",
+        "description": "torch.nn",
+        "isExtraImport": true,
+        "detail": "torch.nn",
+        "documentation": {}
+    },
+    {
+        "label": "read_pkl",
+        "importPath": "lib.utils.tools",
+        "description": "lib.utils.tools",
+        "isExtraImport": true,
+        "detail": "lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "read_pkl",
+        "importPath": "lib.utils.tools",
+        "description": "lib.utils.tools",
+        "isExtraImport": true,
+        "detail": "lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "read_pkl",
+        "importPath": "lib.utils.tools",
+        "description": "lib.utils.tools",
+        "isExtraImport": true,
+        "detail": "lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "read_pkl",
+        "importPath": "lib.utils.tools",
+        "description": "lib.utils.tools",
+        "isExtraImport": true,
+        "detail": "lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "read_pkl",
+        "importPath": "lib.utils.tools",
+        "description": "lib.utils.tools",
+        "isExtraImport": true,
+        "detail": "lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "read_pkl",
+        "importPath": "lib.utils.tools",
+        "description": "lib.utils.tools",
+        "isExtraImport": true,
+        "detail": "lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_dir",
+        "importPath": "lib.utils.tools",
+        "description": "lib.utils.tools",
+        "isExtraImport": true,
+        "detail": "lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "flip_data",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "crop_scale_3d",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "split_clips",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "split_clips",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "crop_scale",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "resample",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "flip_data",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "crop_scale",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "crop_scale",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "flip_data",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "resample",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "split_clips",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "flip_data",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "crop_scale",
+        "importPath": "lib.utils.utils_data",
+        "description": "lib.utils.utils_data",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "os,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.",
+        "description": "os.",
+        "detail": "os.",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "glob",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "glob",
+        "description": "glob",
+        "detail": "glob",
+        "documentation": {}
+    },
+    {
+        "label": "io",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "io",
+        "description": "io",
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "Augmenter3D",
+        "importPath": "lib.data.augmentation",
+        "description": "lib.data.augmentation",
+        "isExtraImport": true,
+        "detail": "lib.data.augmentation",
+        "documentation": {}
+    },
+    {
+        "label": "Augmenter3D",
+        "importPath": "lib.data.augmentation",
+        "description": "lib.data.augmentation",
+        "isExtraImport": true,
+        "detail": "lib.data.augmentation",
+        "documentation": {}
+    },
+    {
+        "label": "flip_thetas",
+        "importPath": "lib.utils.utils_mesh",
+        "description": "lib.utils.utils_mesh",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "batch_rodrigues",
+        "importPath": "lib.utils.utils_mesh",
+        "description": "lib.utils.utils_mesh",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rotation_matrix_to_angle_axis",
+        "importPath": "lib.utils.utils_mesh",
+        "description": "lib.utils.utils_mesh",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rot6d_to_rotmat",
+        "importPath": "lib.utils.utils_mesh",
+        "description": "lib.utils.utils_mesh",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "SMPL",
+        "importPath": "lib.utils.utils_smpl",
+        "description": "lib.utils.utils_smpl",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "SMPL",
+        "importPath": "lib.utils.utils_smpl",
+        "description": "lib.utils.utils_smpl",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "lib.utils.utils_smpl",
+        "description": "lib.utils.utils_smpl",
+        "isExtraImport": true,
+        "detail": "lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "DataReaderH36M",
+        "importPath": "lib.data.datareader_h36m",
+        "description": "lib.data.datareader_h36m",
+        "isExtraImport": true,
+        "detail": "lib.data.datareader_h36m",
+        "documentation": {}
+    },
+    {
+        "label": "DataReaderMesh",
+        "importPath": "lib.data.datareader_mesh",
+        "description": "lib.data.datareader_mesh",
+        "isExtraImport": true,
+        "detail": "lib.data.datareader_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "random_move",
+        "importPath": "lib.data.dataset_action",
+        "description": "lib.data.dataset_action",
+        "isExtraImport": true,
+        "detail": "lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "defaultdict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "collections",
+        "description": "collections",
+        "isExtraImport": true,
+        "detail": "collections",
+        "documentation": {}
+    },
+    {
+        "label": "ipdb",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "ipdb",
+        "description": "ipdb",
+        "detail": "ipdb",
+        "documentation": {}
+    },
+    {
+        "label": "math",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "math",
+        "description": "math",
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "warnings",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "warnings",
+        "description": "warnings",
+        "detail": "warnings",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "partial",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "repeat",
+        "importPath": "itertools",
+        "description": "itertools",
+        "isExtraImport": true,
+        "detail": "itertools",
+        "documentation": {}
+    },
+    {
+        "label": "DropPath",
+        "importPath": "lib.model.drop",
+        "description": "lib.model.drop",
+        "isExtraImport": true,
+        "detail": "lib.model.drop",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "lib.model.loss",
+        "description": "lib.model.loss",
+        "isExtraImport": true,
+        "detail": "lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "print_function",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "DSTformer",
+        "importPath": "lib.model.DSTformer",
+        "description": "lib.model.DSTformer",
+        "isExtraImport": true,
+        "detail": "lib.model.DSTformer",
+        "documentation": {}
+    },
+    {
+        "label": "DSTformer",
+        "importPath": "lib.model.DSTformer",
+        "description": "lib.model.DSTformer",
+        "isExtraImport": true,
+        "detail": "lib.model.DSTformer",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "EasyDict",
+        "importPath": "easydict",
+        "description": "easydict",
+        "isExtraImport": true,
+        "detail": "easydict",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "IO",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "os.path",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.path",
+        "description": "os.path",
+        "detail": "os.path",
+        "documentation": {}
+    },
+    {
+        "label": "SMPL",
+        "importPath": "smplx",
+        "description": "smplx",
+        "isExtraImport": true,
+        "detail": "smplx",
+        "documentation": {}
+    },
+    {
+        "label": "ModelOutput",
+        "importPath": "smplx.utils",
+        "description": "smplx.utils",
+        "isExtraImport": true,
+        "detail": "smplx.utils",
+        "documentation": {}
+    },
+    {
+        "label": "SMPLOutput",
+        "importPath": "smplx.utils",
+        "description": "smplx.utils",
+        "isExtraImport": true,
+        "detail": "smplx.utils",
+        "documentation": {}
+    },
+    {
+        "label": "vertices2joints",
+        "importPath": "smplx.lbs",
+        "description": "smplx.lbs",
+        "isExtraImport": true,
+        "detail": "smplx.lbs",
+        "documentation": {}
+    },
+    {
+        "label": "cv2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "cv2",
+        "description": "cv2",
+        "detail": "cv2",
+        "documentation": {}
+    },
+    {
+        "label": "imageio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "imageio",
+        "description": "imageio",
+        "detail": "imageio",
+        "documentation": {}
+    },
+    {
+        "label": "tqdm",
+        "importPath": "tqdm",
+        "description": "tqdm",
+        "isExtraImport": true,
+        "detail": "tqdm",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "importPath": "PIL",
+        "description": "PIL",
+        "isExtraImport": true,
+        "detail": "PIL",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib",
+        "description": "matplotlib",
+        "detail": "matplotlib",
+        "documentation": {}
+    },
+    {
+        "label": "matplotlib.pyplot",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "matplotlib.pyplot",
+        "description": "matplotlib.pyplot",
+        "detail": "matplotlib.pyplot",
+        "documentation": {}
+    },
+    {
+        "label": "Axes3D",
+        "importPath": "mpl_toolkits.mplot3d",
+        "description": "mpl_toolkits.mplot3d",
+        "isExtraImport": true,
+        "detail": "mpl_toolkits.mplot3d",
+        "documentation": {}
+    },
+    {
+        "label": "angles_to_lhc_label",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_between_two_lines_position",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_by_3_points",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_dist_between_points",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_triangle_gravity_position",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "angles_to_lhc_label",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_between_two_lines_position",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_by_3_points",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_dist_between_points",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_triangle_gravity_position",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_by_3_points",
+        "importPath": "src.calculator",
+        "description": "src.calculator",
+        "isExtraImport": true,
+        "detail": "src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "KPT_LIST",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "JOINT_NAME_DICT",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "JOINT_IDX_DICT",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "LineConnections",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "coco_line",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "KPT_LIST",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "JOINT_NAME_DICT",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "JOINT_IDX_DICT",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "LineConnections",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "coco_line",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "KPT_LIST",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "KPT_IDX_DICT",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "coco_line",
+        "importPath": "src.value",
+        "description": "src.value",
+        "isExtraImport": true,
+        "detail": "src.value",
+        "documentation": {}
+    },
+    {
+        "label": "mediapipe",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "mediapipe",
+        "description": "mediapipe",
+        "detail": "mediapipe",
+        "documentation": {}
+    },
+    {
+        "label": "PoseLandmarkerResult",
+        "importPath": "mediapipe.tasks.python.vision.pose_landmarker",
+        "description": "mediapipe.tasks.python.vision.pose_landmarker",
+        "isExtraImport": true,
+        "detail": "mediapipe.tasks.python.vision.pose_landmarker",
+        "documentation": {}
+    },
+    {
+        "label": "PoseLandmarksConnections",
+        "importPath": "mediapipe.tasks.python.vision.pose_landmarker",
+        "description": "mediapipe.tasks.python.vision.pose_landmarker",
+        "isExtraImport": true,
+        "detail": "mediapipe.tasks.python.vision.pose_landmarker",
+        "documentation": {}
+    },
+    {
+        "label": "YOLO",
+        "importPath": "ultralytics",
+        "description": "ultralytics",
+        "isExtraImport": true,
+        "detail": "ultralytics",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "mpl_toolkits.mplot3d.axes3d",
+        "description": "mpl_toolkits.mplot3d.axes3d",
+        "isExtraImport": true,
+        "detail": "mpl_toolkits.mplot3d.axes3d",
+        "documentation": {}
+    },
+    {
+        "label": "PoseResult",
+        "importPath": "src.mediapipe_lib.base",
+        "description": "src.mediapipe_lib.base",
+        "isExtraImport": true,
+        "detail": "src.mediapipe_lib.base",
+        "documentation": {}
+    },
+    {
+        "label": "ResultAnalyzer",
+        "importPath": "src.mediapipe_lib.base",
+        "description": "src.mediapipe_lib.base",
+        "isExtraImport": true,
+        "detail": "src.mediapipe_lib.base",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOPoseEstimator",
+        "importPath": "src.model_wrappers",
+        "description": "src.model_wrappers",
+        "isExtraImport": true,
+        "detail": "src.model_wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "MotionBERTEstimator",
+        "importPath": "src.model_wrappers",
+        "description": "src.model_wrappers",
+        "isExtraImport": true,
+        "detail": "src.model_wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "Augmenter2D",
+        "kind": 6,
+        "importPath": "server.lib.data.augmentation",
+        "description": "server.lib.data.augmentation",
+        "peekOfCode": "class Augmenter2D(object):\n    \"\"\"\n        Make 2D augmentations on the fly. PyTorch batch-processing GPU version.\n    \"\"\"\n    def __init__(self, args):\n        self.d2c_params = read_pkl(args.d2c_params_path)\n        self.noise = torch.load(args.noise_path)\n        self.mask_ratio = args.mask_ratio\n        self.mask_T_ratio = args.mask_T_ratio\n        self.num_Kframes = 27",
+        "detail": "server.lib.data.augmentation",
+        "documentation": {}
+    },
+    {
+        "label": "Augmenter3D",
+        "kind": 6,
+        "importPath": "server.lib.data.augmentation",
+        "description": "server.lib.data.augmentation",
+        "peekOfCode": "class Augmenter3D(object):\n    \"\"\"\n        Make 3D augmentations when dataloaders get items. NumPy single motion version.\n    \"\"\"\n    def __init__(self, args):\n        self.flip = args.flip\n        if hasattr(args, \"scale_range_pretrain\"):\n            self.scale_range_pretrain = args.scale_range_pretrain\n        else:\n            self.scale_range_pretrain = None",
+        "detail": "server.lib.data.augmentation",
+        "documentation": {}
+    },
+    {
+        "label": "DataReaderH36M",
+        "kind": 6,
+        "importPath": "server.lib.data.datareader_h36m",
+        "description": "server.lib.data.datareader_h36m",
+        "peekOfCode": "class DataReaderH36M(object):\n    def __init__(self, n_frames, sample_stride, data_stride_train, data_stride_test, read_confidence=True, dt_root = 'data/motion3d', dt_file = 'h36m_cpn_cam_source.pkl'):\n        self.gt_trainset = None\n        self.gt_testset = None\n        self.split_id_train = None\n        self.split_id_test = None\n        self.test_hw = None\n        self.dt_dataset = read_pkl('%s/%s' % (dt_root, dt_file))\n        self.n_frames = n_frames\n        self.sample_stride = sample_stride",
+        "detail": "server.lib.data.datareader_h36m",
+        "documentation": {}
+    },
+    {
+        "label": "DataReaderMesh",
+        "kind": 6,
+        "importPath": "server.lib.data.datareader_mesh",
+        "description": "server.lib.data.datareader_mesh",
+        "peekOfCode": "class DataReaderMesh(object):\n    def __init__(self, n_frames, sample_stride, data_stride_train, data_stride_test, read_confidence=True, dt_root = 'data/mesh', dt_file = 'pw3d_det.pkl', res=[1920, 1920]):\n        self.split_id_train = None\n        self.split_id_test = None\n        self.dt_dataset = read_pkl('%s/%s' % (dt_root, dt_file))\n        self.n_frames = n_frames\n        self.sample_stride = sample_stride\n        self.data_stride_train = data_stride_train\n        self.data_stride_test = data_stride_test\n        self.read_confidence = read_confidence",
+        "detail": "server.lib.data.datareader_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "ActionDataset",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_action",
+        "description": "server.lib.data.dataset_action",
+        "peekOfCode": "class ActionDataset(Dataset):\n    def __init__(self, data_path, data_split, n_frames=243, random_move=True, scale_range=[1,1], check_split=True):   # data_split: train/test etc.\n        np.random.seed(0)\n        dataset = read_pkl(data_path)\n        if check_split:\n            assert data_split in dataset['split'].keys()\n            self.split = dataset['split'][data_split]\n        annotations = dataset['annotations']\n        self.random_move = random_move\n        self.is_train = \"train\" in data_split or (check_split==False)",
+        "detail": "server.lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "NTURGBD",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_action",
+        "description": "server.lib.data.dataset_action",
+        "peekOfCode": "class NTURGBD(ActionDataset):\n    def __init__(self, data_path, data_split, n_frames=243, random_move=True, scale_range=[1,1]):\n        super(NTURGBD, self).__init__(data_path, data_split, n_frames, random_move, scale_range)\n    def __getitem__(self, idx):\n        'Generates one sample of data'\n        motion, label = self.motions[idx], self.labels[idx] # (M,T,J,C)\n        if self.random_move:\n            motion = random_move(motion)\n        if self.scale_range:\n            result = crop_scale(motion, scale_range=self.scale_range)",
+        "detail": "server.lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "NTURGBD1Shot",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_action",
+        "description": "server.lib.data.dataset_action",
+        "peekOfCode": "class NTURGBD1Shot(ActionDataset):\n    def __init__(self, data_path, data_split, n_frames=243, random_move=True, scale_range=[1,1], check_split=False):\n        super(NTURGBD1Shot, self).__init__(data_path, data_split, n_frames, random_move, scale_range, check_split)\n        oneshot_classes = [0, 6, 12, 18, 24, 30, 36, 42, 48, 54, 60, 66, 72, 78, 84, 90, 96, 102, 108, 114]\n        new_classes = set(range(120)) - set(oneshot_classes)\n        old2new = {}\n        for i, cid in enumerate(new_classes):\n            old2new[cid] = i\n        filtered = [not (x in oneshot_classes) for x in self.labels]\n        self.motions = self.motions[filtered]",
+        "detail": "server.lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "get_action_names",
+        "kind": 2,
+        "importPath": "server.lib.data.dataset_action",
+        "description": "server.lib.data.dataset_action",
+        "peekOfCode": "def get_action_names(file_path = \"data/action/ntu_actions.txt\"):\n    f = open(file_path, \"r\")\n    s = f.read()\n    actions = s.split('\\n')\n    action_names = []\n    for a in actions:\n        action_names.append(a.split('.')[1][1:])\n    return action_names\ndef make_cam(x, img_shape):\n    '''",
+        "detail": "server.lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "make_cam",
+        "kind": 2,
+        "importPath": "server.lib.data.dataset_action",
+        "description": "server.lib.data.dataset_action",
+        "peekOfCode": "def make_cam(x, img_shape):\n    '''\n        Input: x (M x T x V x C)\n               img_shape (height, width)\n    '''\n    h, w = img_shape\n    if w >= h:\n        x_cam = x / w * 2 - 1\n    else:\n        x_cam = x / h * 2 - 1",
+        "detail": "server.lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "coco2h36m",
+        "kind": 2,
+        "importPath": "server.lib.data.dataset_action",
+        "description": "server.lib.data.dataset_action",
+        "peekOfCode": "def coco2h36m(x):\n    '''\n        Input: x (M x T x V x C)\n        COCO: {0-nose 1-Leye 2-Reye 3-Lear 4Rear 5-Lsho 6-Rsho 7-Lelb 8-Relb 9-Lwri 10-Rwri 11-Lhip 12-Rhip 13-Lkne 14-Rkne 15-Lank 16-Rank}\n        H36M:\n        0: 'root',\n        1: 'rhip',\n        2: 'rkne',\n        3: 'rank',\n        4: 'lhip',",
+        "detail": "server.lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "random_move",
+        "kind": 2,
+        "importPath": "server.lib.data.dataset_action",
+        "description": "server.lib.data.dataset_action",
+        "peekOfCode": "def random_move(data_numpy,\n                angle_range=[-10., 10.],\n                scale_range=[0.9, 1.1],\n                transform_range=[-0.1, 0.1],\n                move_time_candidate=[1]):\n    data_numpy = np.transpose(data_numpy, (3,1,2,0)) # M,T,V,C-> C,T,V,M\n    C, T, V, M = data_numpy.shape\n    move_time = random.choice(move_time_candidate)\n    node = np.arange(0, T, T * 1.0 / move_time).round().astype(int)\n    node = np.append(node, T)",
+        "detail": "server.lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "human_tracking",
+        "kind": 2,
+        "importPath": "server.lib.data.dataset_action",
+        "description": "server.lib.data.dataset_action",
+        "peekOfCode": "def human_tracking(x):\n    M, T = x.shape[:2]\n    if M==1:\n        return x\n    else:\n        diff0 = np.sum(np.linalg.norm(x[0,1:] - x[0,:-1], axis=-1), axis=-1)        # (T-1, V, C) -> (T-1)\n        diff1 = np.sum(np.linalg.norm(x[0,1:] - x[1,:-1], axis=-1), axis=-1)\n        x_new = np.zeros(x.shape)\n        sel = np.cumsum(diff0 > diff1) % 2\n        sel = sel[:,None,None]",
+        "detail": "server.lib.data.dataset_action",
+        "documentation": {}
+    },
+    {
+        "label": "SMPLDataset",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_mesh",
+        "description": "server.lib.data.dataset_mesh",
+        "peekOfCode": "class SMPLDataset(Dataset):\n    def __init__(self, args, data_split, dataset): # data_split: train/test; dataset: h36m, coco, pw3d\n        random.seed(0)\n        np.random.seed(0)\n        self.clip_len = args.clip_len\n        self.data_split = data_split\n        if dataset==\"h36m\":\n            datareader = DataReaderH36M(n_frames=self.clip_len, sample_stride=args.sample_stride, data_stride_train=args.data_stride, data_stride_test=self.clip_len, dt_root=args.data_root, dt_file=args.dt_file_h36m)\n        elif dataset==\"coco\":\n            datareader = DataReaderMesh(n_frames=1, sample_stride=args.sample_stride, data_stride_train=1, data_stride_test=1, dt_root=args.data_root, dt_file=args.dt_file_coco, res=[640, 640])",
+        "detail": "server.lib.data.dataset_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "MotionSMPL",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_mesh",
+        "description": "server.lib.data.dataset_mesh",
+        "peekOfCode": "class MotionSMPL(SMPLDataset):\n    def __init__(self, args, data_split, dataset):\n        super(MotionSMPL, self).__init__(args, data_split, dataset)\n        self.flip = args.flip\n    def __getitem__(self, index):\n        'Generates one sample of data'\n        # Select sample\n        motion_2d = self.motion_2d[index]                                            # motion_2d: (T,17,3)     \n        motion_2d[:,:,2] = np.clip(motion_2d[:,:,2], 0, 1)\n        motion_smpl_pose = self.motion_smpl_3d['pose'][index].reshape(-1, 24, 3)     # motion_smpl_3d: (T, 24, 3)    ",
+        "detail": "server.lib.data.dataset_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "PoseTrackDataset2D",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_motion_2d",
+        "description": "server.lib.data.dataset_motion_2d",
+        "peekOfCode": "class PoseTrackDataset2D(Dataset):\n    def __init__(self, flip=True, scale_range=[0.25, 1]):\n        super(PoseTrackDataset2D, self).__init__()\n        self.flip = flip\n        data_root = \"data/motion2d/posetrack18_annotations/train/\"\n        file_list = sorted(os.listdir(data_root))\n        all_motions = []\n        all_motions_filtered = []\n        self.scale_range = scale_range\n        for filename in file_list:",
+        "detail": "server.lib.data.dataset_motion_2d",
+        "documentation": {}
+    },
+    {
+        "label": "InstaVDataset2D",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_motion_2d",
+        "description": "server.lib.data.dataset_motion_2d",
+        "peekOfCode": "class InstaVDataset2D(Dataset):\n    def __init__(self, n_frames=81, data_stride=27, flip=True, valid_threshold=0.0, scale_range=[0.25, 1]):\n        super(InstaVDataset2D, self).__init__()\n        self.flip = flip\n        self.scale_range = scale_range\n        motion_all = np.load('data/motion2d/InstaVariety/motion_all.npy')\n        id_all = np.load('data/motion2d/InstaVariety/id_all.npy')\n        split_id = split_clips(id_all, n_frames, data_stride)  \n        motions_2d = motion_all[split_id]                        # [N, T, 17, 3]\n        valid_idx = (motions_2d[:,0,0,2] > valid_threshold)",
+        "detail": "server.lib.data.dataset_motion_2d",
+        "documentation": {}
+    },
+    {
+        "label": "posetrack2h36m",
+        "kind": 2,
+        "importPath": "server.lib.data.dataset_motion_2d",
+        "description": "server.lib.data.dataset_motion_2d",
+        "peekOfCode": "def posetrack2h36m(x):\n    '''\n        Input: x (T x V x C)\n        PoseTrack keypoints = [ 'nose',\n                                'head_bottom',\n                                'head_top',\n                                'left_ear',\n                                'right_ear',\n                                'left_shoulder',\n                                'right_shoulder',",
+        "detail": "server.lib.data.dataset_motion_2d",
+        "documentation": {}
+    },
+    {
+        "label": "MotionDataset",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_motion_3d",
+        "description": "server.lib.data.dataset_motion_3d",
+        "peekOfCode": "class MotionDataset(Dataset):\n    def __init__(self, args, subset_list, data_split): # data_split: train/test\n        np.random.seed(0)\n        self.data_root = args.data_root\n        self.subset_list = subset_list\n        self.data_split = data_split\n        file_list_all = []\n        for subset in self.subset_list:\n            data_path = os.path.join(self.data_root, subset, self.data_split)\n            motion_list = sorted(os.listdir(data_path))",
+        "detail": "server.lib.data.dataset_motion_3d",
+        "documentation": {}
+    },
+    {
+        "label": "MotionDataset3D",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_motion_3d",
+        "description": "server.lib.data.dataset_motion_3d",
+        "peekOfCode": "class MotionDataset3D(MotionDataset):\n    def __init__(self, args, subset_list, data_split):\n        super(MotionDataset3D, self).__init__(args, subset_list, data_split)\n        self.flip = args.flip\n        self.synthetic = args.synthetic\n        self.aug = Augmenter3D(args)\n        self.gt_2d = args.gt_2d\n    def __getitem__(self, index):\n        'Generates one sample of data'\n        # Select sample",
+        "detail": "server.lib.data.dataset_motion_3d",
+        "documentation": {}
+    },
+    {
+        "label": "WildDetDataset",
+        "kind": 6,
+        "importPath": "server.lib.data.dataset_wild",
+        "description": "server.lib.data.dataset_wild",
+        "peekOfCode": "class WildDetDataset(Dataset):\n    def __init__(self, json_path, clip_len=243, vid_size=None, scale_range=None, focus=None):\n        self.json_path = json_path\n        self.clip_len = clip_len\n        self.vid_all = read_input(json_path, vid_size, scale_range, focus)\n    def __len__(self):\n        'Denotes the total number of samples'\n        return math.ceil(len(self.vid_all) / self.clip_len)\n    def __getitem__(self, index):\n        'Generates one sample of data'",
+        "detail": "server.lib.data.dataset_wild",
+        "documentation": {}
+    },
+    {
+        "label": "halpe2h36m",
+        "kind": 2,
+        "importPath": "server.lib.data.dataset_wild",
+        "description": "server.lib.data.dataset_wild",
+        "peekOfCode": "def halpe2h36m(x):\n    '''\n        Input: x (T x V x C)  \n       //Halpe 26 body keypoints\n    {0,  \"Nose\"},\n    {1,  \"LEye\"},\n    {2,  \"REye\"},\n    {3,  \"LEar\"},\n    {4,  \"REar\"},\n    {5,  \"LShoulder\"},",
+        "detail": "server.lib.data.dataset_wild",
+        "documentation": {}
+    },
+    {
+        "label": "read_input",
+        "kind": 2,
+        "importPath": "server.lib.data.dataset_wild",
+        "description": "server.lib.data.dataset_wild",
+        "peekOfCode": "def read_input(json_path, vid_size, scale_range, focus):\n    with open(json_path, \"r\") as read_file:\n        results = json.load(read_file)\n    kpts_all = []\n    for item in results:\n        if focus!=None and item['idx']!=focus:\n            continue\n        kpts = np.array(item['keypoints']).reshape([-1,3])\n        kpts_all.append(kpts)\n    kpts_all = np.array(kpts_all)",
+        "detail": "server.lib.data.dataset_wild",
+        "documentation": {}
+    },
+    {
+        "label": "DropPath",
+        "kind": 6,
+        "importPath": "server.lib.model.drop",
+        "description": "server.lib.model.drop",
+        "peekOfCode": "class DropPath(nn.Module):\n    \"\"\"Drop paths (Stochastic Depth) per sample  (when applied in main path of residual blocks).\n    \"\"\"\n    def __init__(self, drop_prob=None):\n        super(DropPath, self).__init__()\n        self.drop_prob = drop_prob\n    def forward(self, x):\n        return drop_path(x, self.drop_prob, self.training)",
+        "detail": "server.lib.model.drop",
+        "documentation": {}
+    },
+    {
+        "label": "drop_path",
+        "kind": 2,
+        "importPath": "server.lib.model.drop",
+        "description": "server.lib.model.drop",
+        "peekOfCode": "def drop_path(x, drop_prob: float = 0., training: bool = False):\n    \"\"\"Drop paths (Stochastic Depth) per sample (when applied in main path of residual blocks).\n    This is the same as the DropConnect impl I created for EfficientNet, etc networks, however,\n    the original name is misleading as 'Drop Connect' is a different form of dropout in a separate paper...\n    See discussion: https://github.com/tensorflow/tpu/issues/494#issuecomment-532968956 ... I've opted for\n    changing the layer and argument names to 'drop path' rather than mix DropConnect as a layer name and use\n    'survival rate' as the argument.\n    \"\"\"\n    if drop_prob == 0. or not training:\n        return x",
+        "detail": "server.lib.model.drop",
+        "documentation": {}
+    },
+    {
+        "label": "MLP",
+        "kind": 6,
+        "importPath": "server.lib.model.DSTformer",
+        "description": "server.lib.model.DSTformer",
+        "peekOfCode": "class MLP(nn.Module):\n    def __init__(self, in_features, hidden_features=None, out_features=None, act_layer=nn.GELU, drop=0.):\n        super().__init__()\n        out_features = out_features or in_features\n        hidden_features = hidden_features or in_features\n        self.fc1 = nn.Linear(in_features, hidden_features)\n        self.act = act_layer()\n        self.fc2 = nn.Linear(hidden_features, out_features)\n        self.drop = nn.Dropout(drop)\n    def forward(self, x):",
+        "detail": "server.lib.model.DSTformer",
+        "documentation": {}
+    },
+    {
+        "label": "Attention",
+        "kind": 6,
+        "importPath": "server.lib.model.DSTformer",
+        "description": "server.lib.model.DSTformer",
+        "peekOfCode": "class Attention(nn.Module):\n    def __init__(self, dim, num_heads=8, qkv_bias=False, qk_scale=None, attn_drop=0., proj_drop=0., st_mode='vanilla'):\n        super().__init__()\n        self.num_heads = num_heads\n        head_dim = dim // num_heads\n        # NOTE scale factor was wrong in my original version, can set manually to be compat with prev weights\n        self.scale = qk_scale or head_dim ** -0.5\n        self.attn_drop = nn.Dropout(attn_drop)\n        self.proj = nn.Linear(dim, dim)\n        self.mode = st_mode",
+        "detail": "server.lib.model.DSTformer",
+        "documentation": {}
+    },
+    {
+        "label": "Block",
+        "kind": 6,
+        "importPath": "server.lib.model.DSTformer",
+        "description": "server.lib.model.DSTformer",
+        "peekOfCode": "class Block(nn.Module):\n    def __init__(self, dim, num_heads, mlp_ratio=4., mlp_out_ratio=1., qkv_bias=True, qk_scale=None, drop=0., attn_drop=0.,\n                 drop_path=0., act_layer=nn.GELU, norm_layer=nn.LayerNorm, st_mode='stage_st', att_fuse=False):\n        super().__init__()\n        # assert 'stage' in st_mode\n        self.st_mode = st_mode\n        self.norm1_s = norm_layer(dim)\n        self.norm1_t = norm_layer(dim)\n        self.attn_s = Attention(\n            dim, num_heads=num_heads, qkv_bias=qkv_bias, qk_scale=qk_scale, attn_drop=attn_drop, proj_drop=drop, st_mode=\"spatial\")",
+        "detail": "server.lib.model.DSTformer",
+        "documentation": {}
+    },
+    {
+        "label": "DSTformer",
+        "kind": 6,
+        "importPath": "server.lib.model.DSTformer",
+        "description": "server.lib.model.DSTformer",
+        "peekOfCode": "class DSTformer(nn.Module):\n    def __init__(self, dim_in=3, dim_out=3, dim_feat=256, dim_rep=512,\n                 depth=5, num_heads=8, mlp_ratio=4, \n                 num_joints=17, maxlen=243, \n                 qkv_bias=True, qk_scale=None, drop_rate=0., attn_drop_rate=0., drop_path_rate=0., norm_layer=nn.LayerNorm, att_fuse=True):\n        super().__init__()\n        self.dim_out = dim_out\n        self.dim_feat = dim_feat\n        self.joints_embed = nn.Linear(dim_in, dim_feat)\n        self.pos_drop = nn.Dropout(p=drop_rate)",
+        "detail": "server.lib.model.DSTformer",
+        "documentation": {}
+    },
+    {
+        "label": "trunc_normal_",
+        "kind": 2,
+        "importPath": "server.lib.model.DSTformer",
+        "description": "server.lib.model.DSTformer",
+        "peekOfCode": "def trunc_normal_(tensor, mean=0., std=1., a=-2., b=2.):\n    # type: (Tensor, float, float, float, float) -> Tensor\n    r\"\"\"Fills the input Tensor with values drawn from a truncated\n    normal distribution. The values are effectively drawn from the\n    normal distribution :math:`\\mathcal{N}(\\text{mean}, \\text{std}^2)`\n    with values outside :math:`[a, b]` redrawn until they are within\n    the bounds. The method used for generating the random values works\n    best when :math:`a \\leq \\text{mean} \\leq b`.\n    Args:\n        tensor: an n-dimensional `torch.Tensor`",
+        "detail": "server.lib.model.DSTformer",
+        "documentation": {}
+    },
+    {
+        "label": "mpjpe",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def mpjpe(predicted, target):\n    \"\"\"\n    Mean per-joint position error (i.e. mean Euclidean distance),\n    often referred to as \"Protocol #1\" in many papers.\n    \"\"\"\n    assert predicted.shape == target.shape\n    return np.mean(np.linalg.norm(predicted - target, axis=len(target.shape)-1), axis=1)\ndef p_mpjpe(predicted, target):\n    \"\"\"\n    Pose error: MPJPE after rigid alignment (scale, rotation, and translation),",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "p_mpjpe",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def p_mpjpe(predicted, target):\n    \"\"\"\n    Pose error: MPJPE after rigid alignment (scale, rotation, and translation),\n    often referred to as \"Protocol #2\" in many papers.\n    \"\"\"\n    assert predicted.shape == target.shape\n    muX = np.mean(target, axis=1, keepdims=True)\n    muY = np.mean(predicted, axis=1, keepdims=True)\n    X0 = target - muX\n    Y0 = predicted - muY",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "loss_mpjpe",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def loss_mpjpe(predicted, target):\n    \"\"\"\n    Mean per-joint position error (i.e. mean Euclidean distance),\n    often referred to as \"Protocol #1\" in many papers.\n    \"\"\"\n    assert predicted.shape == target.shape\n    return torch.mean(torch.norm(predicted - target, dim=len(target.shape)-1))\ndef weighted_mpjpe(predicted, target, w):\n    \"\"\"\n    Weighted mean per-joint position error (i.e. mean Euclidean distance)",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "weighted_mpjpe",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def weighted_mpjpe(predicted, target, w):\n    \"\"\"\n    Weighted mean per-joint position error (i.e. mean Euclidean distance)\n    \"\"\"\n    assert predicted.shape == target.shape\n    assert w.shape[0] == predicted.shape[0]\n    return torch.mean(w * torch.norm(predicted - target, dim=len(target.shape)-1))\ndef loss_2d_weighted(predicted, target, conf):\n    assert predicted.shape == target.shape\n    predicted_2d = predicted[:,:,:,:2]",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "loss_2d_weighted",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def loss_2d_weighted(predicted, target, conf):\n    assert predicted.shape == target.shape\n    predicted_2d = predicted[:,:,:,:2]\n    target_2d = target[:,:,:,:2]\n    diff = (predicted_2d - target_2d) * conf\n    return torch.mean(torch.norm(diff, dim=-1))\ndef n_mpjpe(predicted, target):\n    \"\"\"\n    Normalized MPJPE (scale only), adapted from:\n    https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning/blob/master/losses/poses.py",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "n_mpjpe",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def n_mpjpe(predicted, target):\n    \"\"\"\n    Normalized MPJPE (scale only), adapted from:\n    https://github.com/hrhodin/UnsupervisedGeometryAwareRepresentationLearning/blob/master/losses/poses.py\n    \"\"\"\n    assert predicted.shape == target.shape\n    norm_predicted = torch.mean(torch.sum(predicted**2, dim=3, keepdim=True), dim=2, keepdim=True)\n    norm_target = torch.mean(torch.sum(target*predicted, dim=3, keepdim=True), dim=2, keepdim=True)\n    scale = norm_target / norm_predicted\n    return loss_mpjpe(scale * predicted, target)",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "weighted_bonelen_loss",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def weighted_bonelen_loss(predict_3d_length, gt_3d_length):\n    loss_length = 0.001 * torch.pow(predict_3d_length - gt_3d_length, 2).mean()\n    return loss_length\ndef weighted_boneratio_loss(predict_3d_length, gt_3d_length):\n    loss_length = 0.1 * torch.pow((predict_3d_length - gt_3d_length)/gt_3d_length, 2).mean()\n    return loss_length\ndef get_limb_lens(x):\n    '''\n        Input: (N, T, 17, 3)\n        Output: (N, T, 16)",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "weighted_boneratio_loss",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def weighted_boneratio_loss(predict_3d_length, gt_3d_length):\n    loss_length = 0.1 * torch.pow((predict_3d_length - gt_3d_length)/gt_3d_length, 2).mean()\n    return loss_length\ndef get_limb_lens(x):\n    '''\n        Input: (N, T, 17, 3)\n        Output: (N, T, 16)\n    '''\n    limbs_id = [[0,1], [1,2], [2,3],\n         [0,4], [4,5], [5,6],",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "get_limb_lens",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def get_limb_lens(x):\n    '''\n        Input: (N, T, 17, 3)\n        Output: (N, T, 16)\n    '''\n    limbs_id = [[0,1], [1,2], [2,3],\n         [0,4], [4,5], [5,6],\n         [0,7], [7,8], [8,9], [9,10],\n         [8,11], [11,12], [12,13],\n         [8,14], [14,15], [15,16]",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "loss_limb_var",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def loss_limb_var(x):\n    '''\n        Input: (N, T, 17, 3)\n    '''\n    if x.shape[1]<=1:\n        return torch.FloatTensor(1).fill_(0.)[0].to(x.device)\n    limb_lens = get_limb_lens(x)\n    limb_lens_var = torch.var(limb_lens, dim=1)\n    limb_loss_var = torch.mean(limb_lens_var)\n    return limb_loss_var",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "loss_limb_gt",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def loss_limb_gt(x, gt):\n    '''\n        Input: (N, T, 17, 3), (N, T, 17, 3)\n    '''\n    limb_lens_x = get_limb_lens(x)\n    limb_lens_gt = get_limb_lens(gt) # (N, T, 16)\n    return nn.L1Loss()(limb_lens_x, limb_lens_gt)\ndef loss_velocity(predicted, target):\n    \"\"\"\n    Mean per-joint velocity error (i.e. mean Euclidean distance of the 1st derivative)",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "loss_velocity",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def loss_velocity(predicted, target):\n    \"\"\"\n    Mean per-joint velocity error (i.e. mean Euclidean distance of the 1st derivative)\n    \"\"\"\n    assert predicted.shape == target.shape\n    if predicted.shape[1]<=1:\n        return torch.FloatTensor(1).fill_(0.)[0].to(predicted.device)\n    velocity_predicted = predicted[:,1:] - predicted[:,:-1]\n    velocity_target = target[:,1:] - target[:,:-1]\n    return torch.mean(torch.norm(velocity_predicted - velocity_target, dim=-1))",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "loss_joint",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def loss_joint(predicted, target):\n    assert predicted.shape == target.shape\n    return nn.L1Loss()(predicted, target)\ndef get_angles(x):\n    '''\n        Input: (N, T, 17, 3)\n        Output: (N, T, 16)\n    '''\n    limbs_id = [[0,1], [1,2], [2,3],\n         [0,4], [4,5], [5,6],",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "get_angles",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def get_angles(x):\n    '''\n        Input: (N, T, 17, 3)\n        Output: (N, T, 16)\n    '''\n    limbs_id = [[0,1], [1,2], [2,3],\n         [0,4], [4,5], [5,6],\n         [0,7], [7,8], [8,9], [9,10],\n         [8,11], [11,12], [12,13],\n         [8,14], [14,15], [15,16]",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "loss_angle",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def loss_angle(x, gt):\n    '''\n        Input: (N, T, 17, 3), (N, T, 17, 3)\n    '''\n    limb_angles_x = get_angles(x)\n    limb_angles_gt = get_angles(gt)\n    return nn.L1Loss()(limb_angles_x, limb_angles_gt)\ndef loss_angle_velocity(x, gt):\n    \"\"\"\n    Mean per-angle velocity error (i.e. mean Euclidean distance of the 1st derivative)",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "loss_angle_velocity",
+        "kind": 2,
+        "importPath": "server.lib.model.loss",
+        "description": "server.lib.model.loss",
+        "peekOfCode": "def loss_angle_velocity(x, gt):\n    \"\"\"\n    Mean per-angle velocity error (i.e. mean Euclidean distance of the 1st derivative)\n    \"\"\"\n    assert x.shape == gt.shape\n    if x.shape[1]<=1:\n        return torch.FloatTensor(1).fill_(0.)[0].to(x.device)\n    x_a = get_angles(x)\n    gt_a = get_angles(gt)\n    x_av = x_a[:,1:] - x_a[:,:-1]",
+        "detail": "server.lib.model.loss",
+        "documentation": {}
+    },
+    {
+        "label": "MeshLoss",
+        "kind": 6,
+        "importPath": "server.lib.model.loss_mesh",
+        "description": "server.lib.model.loss_mesh",
+        "peekOfCode": "class MeshLoss(nn.Module):\n    def __init__(\n            self,\n            loss_type='MSE',\n            device='cuda',\n    ):\n        super(MeshLoss, self).__init__()\n        self.device = device\n        self.loss_type = loss_type\n        if loss_type == 'MSE': ",
+        "detail": "server.lib.model.loss_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "SupConLoss",
+        "kind": 6,
+        "importPath": "server.lib.model.loss_supcon",
+        "description": "server.lib.model.loss_supcon",
+        "peekOfCode": "class SupConLoss(nn.Module):\n    \"\"\"Supervised Contrastive Learning: https://arxiv.org/pdf/2004.11362.pdf.\n    It also supports the unsupervised contrastive loss in SimCLR\"\"\"\n    def __init__(self, temperature=0.07, contrast_mode='all',\n                 base_temperature=0.07):\n        super(SupConLoss, self).__init__()\n        self.temperature = temperature\n        self.contrast_mode = contrast_mode\n        self.base_temperature = base_temperature\n    def forward(self, features, labels=None, mask=None):",
+        "detail": "server.lib.model.loss_supcon",
+        "documentation": {}
+    },
+    {
+        "label": "ActionHeadClassification",
+        "kind": 6,
+        "importPath": "server.lib.model.model_action",
+        "description": "server.lib.model.model_action",
+        "peekOfCode": "class ActionHeadClassification(nn.Module):\n    def __init__(self, dropout_ratio=0., dim_rep=512, num_classes=60, num_joints=17, hidden_dim=2048):\n        super(ActionHeadClassification, self).__init__()\n        self.dropout = nn.Dropout(p=dropout_ratio)\n        self.bn = nn.BatchNorm1d(hidden_dim, momentum=0.1)\n        self.relu = nn.ReLU(inplace=True)\n        self.fc1 = nn.Linear(dim_rep*num_joints, hidden_dim)\n        self.fc2 = nn.Linear(hidden_dim, num_classes)\n    def forward(self, feat):\n        '''",
+        "detail": "server.lib.model.model_action",
+        "documentation": {}
+    },
+    {
+        "label": "ActionHeadEmbed",
+        "kind": 6,
+        "importPath": "server.lib.model.model_action",
+        "description": "server.lib.model.model_action",
+        "peekOfCode": "class ActionHeadEmbed(nn.Module):\n    def __init__(self, dropout_ratio=0., dim_rep=512, num_joints=17, hidden_dim=2048):\n        super(ActionHeadEmbed, self).__init__()\n        self.dropout = nn.Dropout(p=dropout_ratio)\n        self.fc1 = nn.Linear(dim_rep*num_joints, hidden_dim)\n    def forward(self, feat):\n        '''\n            Input: (N, M, T, J, C)\n        '''\n        N, M, T, J, C = feat.shape",
+        "detail": "server.lib.model.model_action",
+        "documentation": {}
+    },
+    {
+        "label": "ActionNet",
+        "kind": 6,
+        "importPath": "server.lib.model.model_action",
+        "description": "server.lib.model.model_action",
+        "peekOfCode": "class ActionNet(nn.Module):\n    def __init__(self, backbone, dim_rep=512, num_classes=60, dropout_ratio=0., version='class', hidden_dim=2048, num_joints=17):\n        super(ActionNet, self).__init__()\n        self.backbone = backbone\n        self.feat_J = num_joints\n        if version=='class':\n            self.head = ActionHeadClassification(dropout_ratio=dropout_ratio, dim_rep=dim_rep, num_classes=num_classes, num_joints=num_joints)\n        elif version=='embed':\n            self.head = ActionHeadEmbed(dropout_ratio=dropout_ratio, dim_rep=dim_rep, hidden_dim=hidden_dim, num_joints=num_joints)\n        else:",
+        "detail": "server.lib.model.model_action",
+        "documentation": {}
+    },
+    {
+        "label": "SMPLRegressor",
+        "kind": 6,
+        "importPath": "server.lib.model.model_mesh",
+        "description": "server.lib.model.model_mesh",
+        "peekOfCode": "class SMPLRegressor(nn.Module):\n    def __init__(self, args, dim_rep=512, num_joints=17, hidden_dim=2048, dropout_ratio=0.):\n        super(SMPLRegressor, self).__init__()\n        param_pose_dim = 24 * 6\n        self.dropout = nn.Dropout(p=dropout_ratio)\n        self.fc1 = nn.Linear(num_joints*dim_rep, hidden_dim)\n        self.pool2 = nn.AdaptiveAvgPool2d((None, 1))\n        self.fc2 = nn.Linear(num_joints*dim_rep, hidden_dim)\n        self.bn1 = nn.BatchNorm1d(hidden_dim, momentum=0.1)\n        self.bn2 = nn.BatchNorm1d(hidden_dim, momentum=0.1)",
+        "detail": "server.lib.model.model_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "MeshRegressor",
+        "kind": 6,
+        "importPath": "server.lib.model.model_mesh",
+        "description": "server.lib.model.model_mesh",
+        "peekOfCode": "class MeshRegressor(nn.Module):\n    def __init__(self, args, backbone, dim_rep=512, num_joints=17, hidden_dim=2048, dropout_ratio=0.5):\n        super(MeshRegressor, self).__init__()\n        self.backbone = backbone\n        self.feat_J = num_joints\n        self.head = SMPLRegressor(args, dim_rep, num_joints, hidden_dim, dropout_ratio)\n    def forward(self, x, init_pose=None, init_shape=None, n_iter=3):\n        '''\n            Input: (N x T x 17 x 3) \n        '''",
+        "detail": "server.lib.model.model_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "AverageMeter",
+        "kind": 6,
+        "importPath": "server.lib.utils.learning",
+        "description": "server.lib.utils.learning",
+        "peekOfCode": "class AverageMeter(object):\n    \"\"\"Computes and stores the average and current value\"\"\"\n    def __init__(self):\n        self.reset()\n    def reset(self):\n        self.val = 0\n        self.avg = 0\n        self.sum = 0\n        self.count = 0\n    def update(self, val, n=1):",
+        "detail": "server.lib.utils.learning",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy",
+        "kind": 2,
+        "importPath": "server.lib.utils.learning",
+        "description": "server.lib.utils.learning",
+        "peekOfCode": "def accuracy(output, target, topk=(1,)):\n    \"\"\"Computes the accuracy over the k top predictions for the specified values of k\"\"\"\n    with torch.no_grad():\n        maxk = max(topk)\n        batch_size = target.size(0)\n        _, pred = output.topk(maxk, 1, True, True)\n        pred = pred.t()\n        correct = pred.eq(target.view(1, -1).expand_as(pred))\n        res = []\n        for k in topk:",
+        "detail": "server.lib.utils.learning",
+        "documentation": {}
+    },
+    {
+        "label": "load_pretrained_weights",
+        "kind": 2,
+        "importPath": "server.lib.utils.learning",
+        "description": "server.lib.utils.learning",
+        "peekOfCode": "def load_pretrained_weights(model, checkpoint):\n    \"\"\"Load pretrianed weights to model\n    Incompatible layers (unmatched in name or size) will be ignored\n    Args:\n    - model (nn.Module): network model, which must not be nn.DataParallel\n    - weight_path (str): path to pretrained weights\n    \"\"\"\n    import collections\n    if 'state_dict' in checkpoint:\n        state_dict = checkpoint['state_dict']",
+        "detail": "server.lib.utils.learning",
+        "documentation": {}
+    },
+    {
+        "label": "partial_train_layers",
+        "kind": 2,
+        "importPath": "server.lib.utils.learning",
+        "description": "server.lib.utils.learning",
+        "peekOfCode": "def partial_train_layers(model, partial_list):\n    \"\"\"Train partial layers of a given model.\"\"\"\n    for name, p in model.named_parameters():\n        p.requires_grad = False\n        for trainable in partial_list:\n            if trainable in name:\n                p.requires_grad = True\n                break\n    return model\ndef load_backbone(args):",
+        "detail": "server.lib.utils.learning",
+        "documentation": {}
+    },
+    {
+        "label": "load_backbone",
+        "kind": 2,
+        "importPath": "server.lib.utils.learning",
+        "description": "server.lib.utils.learning",
+        "peekOfCode": "def load_backbone(args):\n    if not(hasattr(args, \"backbone\")):\n        args.backbone = 'DSTformer' # Default\n    if args.backbone=='DSTformer':\n        model_backbone = DSTformer(dim_in=3, dim_out=3, dim_feat=args.dim_feat, dim_rep=args.dim_rep, \n                                   depth=args.depth, num_heads=args.num_heads, mlp_ratio=args.mlp_ratio, norm_layer=partial(nn.LayerNorm, eps=1e-6), \n                                   maxlen=args.maxlen, num_joints=args.num_joints)\n    elif args.backbone=='TCN':\n        from lib.model.model_tcn import PoseTCN\n        model_backbone = PoseTCN()",
+        "detail": "server.lib.utils.learning",
+        "documentation": {}
+    },
+    {
+        "label": "TextLogger",
+        "kind": 6,
+        "importPath": "server.lib.utils.tools",
+        "description": "server.lib.utils.tools",
+        "peekOfCode": "class TextLogger:\n    def __init__(self, log_path):\n        self.log_path = log_path\n        with open(self.log_path, \"w\") as f:\n            f.write(\"\")\n    def log(self, log):\n        with open(self.log_path, \"a+\") as f:\n            f.write(log + \"\\n\")\nclass Loader(yaml.SafeLoader):\n    \"\"\"YAML Loader with `!include` constructor.\"\"\"",
+        "detail": "server.lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "Loader",
+        "kind": 6,
+        "importPath": "server.lib.utils.tools",
+        "description": "server.lib.utils.tools",
+        "peekOfCode": "class Loader(yaml.SafeLoader):\n    \"\"\"YAML Loader with `!include` constructor.\"\"\"\n    def __init__(self, stream: IO) -> None:\n        \"\"\"Initialise Loader.\"\"\"\n        try:\n            self._root = os.path.split(stream.name)[0]\n        except AttributeError:\n            self._root = os.path.curdir\n        super().__init__(stream)\ndef construct_include(loader: Loader, node: yaml.Node) -> Any:",
+        "detail": "server.lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "construct_include",
+        "kind": 2,
+        "importPath": "server.lib.utils.tools",
+        "description": "server.lib.utils.tools",
+        "peekOfCode": "def construct_include(loader: Loader, node: yaml.Node) -> Any:\n    \"\"\"Include file referenced at node.\"\"\"\n    filename = os.path.abspath(os.path.join(loader._root, loader.construct_scalar(node)))\n    extension = os.path.splitext(filename)[1].lstrip('.')\n    with open(filename, 'r') as f:\n        if extension in ('yaml', 'yml'):\n            return yaml.load(f, Loader)\n        elif extension in ('json', ):\n            return json.load(f)\n        else:",
+        "detail": "server.lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "get_config",
+        "kind": 2,
+        "importPath": "server.lib.utils.tools",
+        "description": "server.lib.utils.tools",
+        "peekOfCode": "def get_config(config_path):\n    yaml.add_constructor('!include', construct_include, Loader)\n    with open(config_path, 'r') as stream:\n        config = yaml.load(stream, Loader=Loader)\n    config = edict(config)\n    _, config_filename = os.path.split(config_path)\n    config_name, _ = os.path.splitext(config_filename)\n    config.name = config_name\n    return config\ndef ensure_dir(path):",
+        "detail": "server.lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "ensure_dir",
+        "kind": 2,
+        "importPath": "server.lib.utils.tools",
+        "description": "server.lib.utils.tools",
+        "peekOfCode": "def ensure_dir(path):\n    \"\"\"\n    create path by first checking its existence,\n    :param paths: path\n    :return:\n    \"\"\"\n    if not os.path.exists(path):\n        os.makedirs(path)\ndef read_pkl(data_url):\n    file = open(data_url,'rb')",
+        "detail": "server.lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "read_pkl",
+        "kind": 2,
+        "importPath": "server.lib.utils.tools",
+        "description": "server.lib.utils.tools",
+        "peekOfCode": "def read_pkl(data_url):\n    file = open(data_url,'rb')\n    content = pickle.load(file)\n    file.close()\n    return content",
+        "detail": "server.lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_PATH",
+        "kind": 5,
+        "importPath": "server.lib.utils.tools",
+        "description": "server.lib.utils.tools",
+        "peekOfCode": "ROOT_PATH = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..')\nclass TextLogger:\n    def __init__(self, log_path):\n        self.log_path = log_path\n        with open(self.log_path, \"w\") as f:\n            f.write(\"\")\n    def log(self, log):\n        with open(self.log_path, \"a+\") as f:\n            f.write(log + \"\\n\")\nclass Loader(yaml.SafeLoader):",
+        "detail": "server.lib.utils.tools",
+        "documentation": {}
+    },
+    {
+        "label": "crop_scale",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_data",
+        "description": "server.lib.utils.utils_data",
+        "peekOfCode": "def crop_scale(motion, scale_range=[1, 1]):\n    '''\n        Motion: [(M), T, 17, 3].\n        Normalize to [-1, 1]\n    '''\n    result = copy.deepcopy(motion)\n    valid_coords = motion[motion[..., 2]!=0][:,:2]\n    if len(valid_coords) < 4:\n        return np.zeros(motion.shape)\n    xmin = min(valid_coords[:,0])",
+        "detail": "server.lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "crop_scale_3d",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_data",
+        "description": "server.lib.utils.utils_data",
+        "peekOfCode": "def crop_scale_3d(motion, scale_range=[1, 1]):\n    '''\n        Motion: [T, 17, 3]. (x, y, z)\n        Normalize to [-1, 1]\n        Z is relative to the first frame's root.\n    '''\n    result = copy.deepcopy(motion)\n    result[:,:,2] = result[:,:,2] - result[0,0,2]\n    xmin = np.min(motion[...,0])\n    xmax = np.max(motion[...,0])",
+        "detail": "server.lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "flip_data",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_data",
+        "description": "server.lib.utils.utils_data",
+        "peekOfCode": "def flip_data(data):\n    \"\"\"\n    horizontal flip\n        data: [N, F, 17, D] or [F, 17, D]. X (horizontal coordinate) is the first channel in D.\n    Return\n        result: same\n    \"\"\"\n    left_joints = [4, 5, 6, 11, 12, 13]\n    right_joints = [1, 2, 3, 14, 15, 16]\n    flipped_data = copy.deepcopy(data)",
+        "detail": "server.lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "resample",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_data",
+        "description": "server.lib.utils.utils_data",
+        "peekOfCode": "def resample(ori_len, target_len, replay=False, randomness=True):\n    if replay:\n        if ori_len > target_len:\n            st = np.random.randint(ori_len-target_len)\n            return range(st, st+target_len)  # Random clipping from sequence\n        else:\n            return np.array(range(target_len)) % ori_len  # Replay padding\n    else:\n        if randomness:\n            even = np.linspace(0, ori_len, num=target_len, endpoint=False)",
+        "detail": "server.lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "split_clips",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_data",
+        "description": "server.lib.utils.utils_data",
+        "peekOfCode": "def split_clips(vid_list, n_frames, data_stride):\n    result = []\n    n_clips = 0\n    st = 0\n    i = 0\n    saved = set()\n    while i<len(vid_list):\n        i += 1\n        if i-st == n_frames:\n            result.append(range(st,i))",
+        "detail": "server.lib.utils.utils_data",
+        "documentation": {}
+    },
+    {
+        "label": "batch_rodrigues",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def batch_rodrigues(axisang):\n    # This function is borrowed from https://github.com/MandyMo/pytorch_HMR/blob/master/src/util.py#L37\n    # axisang N x 3\n    axisang_norm = torch.norm(axisang + 1e-8, p=2, dim=1)\n    angle = torch.unsqueeze(axisang_norm, -1)\n    axisang_normalized = torch.div(axisang, angle)\n    angle = angle * 0.5\n    v_cos = torch.cos(angle)\n    v_sin = torch.sin(angle)\n    quat = torch.cat([v_cos, v_sin * axisang_normalized], dim=1)",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "quat2mat",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def quat2mat(quat):\n    \"\"\"\n    This function is borrowed from https://github.com/MandyMo/pytorch_HMR/blob/master/src/util.py#L50\n    Convert quaternion coefficients to rotation matrix.\n    Args:\n        quat: size = [batch_size, 4] 4 <===>(w, x, y, z)\n    Returns:\n        Rotation matrix corresponding to the quaternion -- size = [batch_size, 3, 3]\n    \"\"\"\n    norm_quat = quat",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rotation_matrix_to_angle_axis",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def rotation_matrix_to_angle_axis(rotation_matrix):\n    \"\"\"\n    This function is borrowed from https://github.com/kornia/kornia\n    Convert 3x4 rotation matrix to Rodrigues vector\n    Args:\n        rotation_matrix (Tensor): rotation matrix.\n    Returns:\n        Tensor: Rodrigues vector transformation.\n    Shape:\n        - Input: :math:`(N, 3, 4)`",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "quaternion_to_angle_axis",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def quaternion_to_angle_axis(quaternion: torch.Tensor) -> torch.Tensor:\n    \"\"\"\n    This function is borrowed from https://github.com/kornia/kornia\n    Convert quaternion vector to angle axis of rotation.\n    Adapted from ceres C++ library: ceres-solver/include/ceres/rotation.h\n    Args:\n        quaternion (torch.Tensor): tensor with quaternions.\n    Return:\n        torch.Tensor: tensor with angle axis of rotation.\n    Shape:",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rotation_matrix_to_quaternion",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def rotation_matrix_to_quaternion(rotation_matrix, eps=1e-6):\n    \"\"\"\n    This function is borrowed from https://github.com/kornia/kornia\n    Convert 3x4 rotation matrix to 4d quaternion vector\n    This algorithm is based on algorithm described in\n    https://github.com/KieranWynn/pyquaternion/blob/master/pyquaternion/quaternion.py#L201\n    Args:\n        rotation_matrix (Tensor): the rotation matrix to convert.\n    Return:\n        Tensor: the rotation in quaternion",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_translation_np",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def estimate_translation_np(S, joints_2d, joints_conf, focal_length=5000., img_size=224.):\n    \"\"\"\n    This function is borrowed from https://github.com/nkolot/SPIN/utils/geometry.py\n    Find camera translation that brings 3D joints S closest to 2D the corresponding joints_2d.\n    Input:\n        S: (25, 3) 3D joint locations\n        joints: (25, 3) 2D joint locations and confidence\n    Returns:\n        (3,) camera translation vector\n    \"\"\"",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "estimate_translation",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def estimate_translation(S, joints_2d, focal_length=5000., img_size=224.):\n    \"\"\"\n    This function is borrowed from https://github.com/nkolot/SPIN/utils/geometry.py\n    Find camera translation that brings 3D joints S closest to 2D the corresponding joints_2d.\n    Input:\n        S: (B, 49, 3) 3D joint locations\n        joints: (B, 49, 3) 2D joint locations and confidence\n    Returns:\n        (B, 3) camera translation vectors\n    \"\"\"",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rot6d_to_rotmat_spin",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def rot6d_to_rotmat_spin(x):\n    \"\"\"Convert 6D rotation representation to 3x3 rotation matrix.\n    Based on Zhou et al., \"On the Continuity of Rotation Representations in Neural Networks\", CVPR 2019\n    Input:\n        (B,6) Batch of 6-D rotation representations\n    Output:\n        (B,3,3) Batch of corresponding rotation matrices\n    \"\"\"\n    x = x.view(-1,3,2)\n    a1 = x[:, :, 0]",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rot6d_to_rotmat",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def rot6d_to_rotmat(x):\n    x = x.view(-1,3,2)\n    # Normalize the first vector\n    b1 = F.normalize(x[:, :, 0], dim=1, eps=1e-6)\n    dot_prod = torch.sum(b1 * x[:, :, 1], dim=1, keepdim=True)\n    # Compute the second vector by finding the orthogonal complement to it\n    b2 = F.normalize(x[:, :, 1] - dot_prod * b1, dim=-1, eps=1e-6)\n    # Finish building the basis by taking the cross product\n    b3 = torch.cross(b1, b2, dim=1)\n    rot_mats = torch.stack([b1, b2, b3], dim=-1)",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rigid_transform_3D",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def rigid_transform_3D(A, B):\n    n, dim = A.shape\n    centroid_A = np.mean(A, axis = 0)\n    centroid_B = np.mean(B, axis = 0)\n    H = np.dot(np.transpose(A - centroid_A), B - centroid_B) / n\n    U, s, V = np.linalg.svd(H)\n    R = np.dot(np.transpose(V), np.transpose(U))\n    if np.linalg.det(R) < 0:\n        s[-1] = -s[-1]\n        V[2] = -V[2]",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rigid_align",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def rigid_align(A, B):\n    c, R, t = rigid_transform_3D(A, B)\n    A2 = np.transpose(np.dot(c*R, np.transpose(A))) + t\n    return A2\ndef compute_error(output, target):\n    with torch.no_grad():\n        pred_verts = output[0]['verts'].reshape(-1, 6890, 3)\n        target_verts = target['verts'].reshape(-1, 6890, 3)\n        pred_j3ds = output[0]['kp_3d'].reshape(-1, 17, 3)\n        target_j3ds = target['kp_3d'].reshape(-1, 17, 3)",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "compute_error",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def compute_error(output, target):\n    with torch.no_grad():\n        pred_verts = output[0]['verts'].reshape(-1, 6890, 3)\n        target_verts = target['verts'].reshape(-1, 6890, 3)\n        pred_j3ds = output[0]['kp_3d'].reshape(-1, 17, 3)\n        target_j3ds = target['kp_3d'].reshape(-1, 17, 3)\n        # mpve\n        pred_verts = pred_verts - pred_j3ds[:, :1, :]\n        target_verts = target_verts - target_j3ds[:, :1, :]\n        mpves = torch.sqrt(((pred_verts - target_verts) ** 2).sum(dim=-1)).mean(dim=-1).cpu()",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "compute_error_frames",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def compute_error_frames(output, target):\n    with torch.no_grad():\n        pred_verts = output[0]['verts'].reshape(-1, 6890, 3)\n        target_verts = target['verts'].reshape(-1, 6890, 3)\n        pred_j3ds = output[0]['kp_3d'].reshape(-1, 17, 3)\n        target_j3ds = target['kp_3d'].reshape(-1, 17, 3)\n        # mpve\n        pred_verts = pred_verts - pred_j3ds[:, :1, :]\n        target_verts = target_verts - target_j3ds[:, :1, :]\n        mpves = torch.sqrt(((pred_verts - target_verts) ** 2).sum(dim=-1)).mean(dim=-1).cpu()",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "evaluate_mesh",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def evaluate_mesh(results):\n    pred_verts = results['verts'].reshape(-1, 6890, 3)\n    target_verts = results['verts_gt'].reshape(-1, 6890, 3)\n    pred_j3ds = results['kp_3d'].reshape(-1, 17, 3)\n    target_j3ds = results['kp_3d_gt'].reshape(-1, 17, 3)\n    num_samples = pred_j3ds.shape[0]\n    # mpve\n    pred_verts = pred_verts - pred_j3ds[:, :1, :]\n    target_verts = target_verts - target_j3ds[:, :1, :]\n    mpve = np.mean(np.mean(np.sqrt(np.square(pred_verts - target_verts).sum(axis=2)), axis=1))",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "rectify_pose",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def rectify_pose(pose):\n    \"\"\"\n    Rectify \"upside down\" people in global coord\n    Args:\n        pose (72,): Pose.\n    Returns:\n        Rotated pose.\n    \"\"\"\n    pose = pose.copy()\n    R_mod = cv2.Rodrigues(np.array([np.pi, 0, 0]))[0]",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "flip_thetas",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def flip_thetas(thetas):\n        \"\"\"Flip thetas.\n        Parameters\n        ----------\n        thetas : numpy.ndarray\n            Joints in shape (F, num_thetas, 3)\n        theta_pairs : list\n            List of theta pairs.\n        Returns\n        -------",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "flip_thetas_batch",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_mesh",
+        "description": "server.lib.utils.utils_mesh",
+        "peekOfCode": "def flip_thetas_batch(thetas):\n    \"\"\"Flip thetas in batch.\n    Parameters\n    ----------\n    thetas : numpy.array\n        Joints in shape (N, F, num_thetas*3)\n    theta_pairs : list\n        List of theta pairs.\n    Returns\n    -------",
+        "detail": "server.lib.utils.utils_mesh",
+        "documentation": {}
+    },
+    {
+        "label": "SMPL",
+        "kind": 6,
+        "importPath": "server.lib.utils.utils_smpl",
+        "description": "server.lib.utils.utils_smpl",
+        "peekOfCode": "class SMPL(_SMPL):\n    \"\"\" Extension of the official SMPL implementation to support more joints \"\"\"\n    def __init__(self, *args, **kwargs):\n        super(SMPL, self).__init__(*args, **kwargs)\n        joints = [JOINT_MAP[i] for i in JOINT_NAMES]\n        self.smpl_mean_params = osp.join(args[0], 'smpl_mean_params.npz')\n        J_regressor_extra = np.load(osp.join(args[0], 'J_regressor_extra.npy'))\n        self.register_buffer('J_regressor_extra', torch.tensor(J_regressor_extra, dtype=torch.float32))\n        J_regressor_h36m = np.load(osp.join(args[0], 'J_regressor_h36m_correct.npy'))\n        self.register_buffer('J_regressor_h36m', torch.tensor(J_regressor_h36m, dtype=torch.float32))",
+        "detail": "server.lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "get_smpl_faces",
+        "kind": 2,
+        "importPath": "server.lib.utils.utils_smpl",
+        "description": "server.lib.utils.utils_smpl",
+        "peekOfCode": "def get_smpl_faces():\n    smpl = SMPL(SMPL_MODEL_DIR, batch_size=1, create_transl=False)\n    return smpl.faces",
+        "detail": "server.lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "JOINT_MAP",
+        "kind": 5,
+        "importPath": "server.lib.utils.utils_smpl",
+        "description": "server.lib.utils.utils_smpl",
+        "peekOfCode": "JOINT_MAP = {\n    'OP Nose': 24, 'OP Neck': 12, 'OP RShoulder': 17,\n    'OP RElbow': 19, 'OP RWrist': 21, 'OP LShoulder': 16,\n    'OP LElbow': 18, 'OP LWrist': 20, 'OP MidHip': 0,\n    'OP RHip': 2, 'OP RKnee': 5, 'OP RAnkle': 8,\n    'OP LHip': 1, 'OP LKnee': 4, 'OP LAnkle': 7,\n    'OP REye': 25, 'OP LEye': 26, 'OP REar': 27,\n    'OP LEar': 28, 'OP LBigToe': 29, 'OP LSmallToe': 30,\n    'OP LHeel': 31, 'OP RBigToe': 32, 'OP RSmallToe': 33, 'OP RHeel': 34,\n    'Right Ankle': 8, 'Right Knee': 5, 'Right Hip': 45,",
+        "detail": "server.lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "JOINT_NAMES",
+        "kind": 5,
+        "importPath": "server.lib.utils.utils_smpl",
+        "description": "server.lib.utils.utils_smpl",
+        "peekOfCode": "JOINT_NAMES = [\n    'OP Nose', 'OP Neck', 'OP RShoulder',\n    'OP RElbow', 'OP RWrist', 'OP LShoulder',\n    'OP LElbow', 'OP LWrist', 'OP MidHip',\n    'OP RHip', 'OP RKnee', 'OP RAnkle',\n    'OP LHip', 'OP LKnee', 'OP LAnkle',\n    'OP REye', 'OP LEye', 'OP REar',\n    'OP LEar', 'OP LBigToe', 'OP LSmallToe',\n    'OP LHeel', 'OP RBigToe', 'OP RSmallToe', 'OP RHeel',\n    'Right Ankle', 'Right Knee', 'Right Hip',",
+        "detail": "server.lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "JOINT_IDS",
+        "kind": 5,
+        "importPath": "server.lib.utils.utils_smpl",
+        "description": "server.lib.utils.utils_smpl",
+        "peekOfCode": "JOINT_IDS = {JOINT_NAMES[i]: i for i in range(len(JOINT_NAMES))}\nSMPL_MODEL_DIR = 'data/mesh'\nH36M_TO_J17 = [6, 5, 4, 1, 2, 3, 16, 15, 14, 11, 12, 13, 8, 10, 0, 7, 9]\nH36M_TO_J14 = H36M_TO_J17[:14]\nclass SMPL(_SMPL):\n    \"\"\" Extension of the official SMPL implementation to support more joints \"\"\"\n    def __init__(self, *args, **kwargs):\n        super(SMPL, self).__init__(*args, **kwargs)\n        joints = [JOINT_MAP[i] for i in JOINT_NAMES]\n        self.smpl_mean_params = osp.join(args[0], 'smpl_mean_params.npz')",
+        "detail": "server.lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "SMPL_MODEL_DIR",
+        "kind": 5,
+        "importPath": "server.lib.utils.utils_smpl",
+        "description": "server.lib.utils.utils_smpl",
+        "peekOfCode": "SMPL_MODEL_DIR = 'data/mesh'\nH36M_TO_J17 = [6, 5, 4, 1, 2, 3, 16, 15, 14, 11, 12, 13, 8, 10, 0, 7, 9]\nH36M_TO_J14 = H36M_TO_J17[:14]\nclass SMPL(_SMPL):\n    \"\"\" Extension of the official SMPL implementation to support more joints \"\"\"\n    def __init__(self, *args, **kwargs):\n        super(SMPL, self).__init__(*args, **kwargs)\n        joints = [JOINT_MAP[i] for i in JOINT_NAMES]\n        self.smpl_mean_params = osp.join(args[0], 'smpl_mean_params.npz')\n        J_regressor_extra = np.load(osp.join(args[0], 'J_regressor_extra.npy'))",
+        "detail": "server.lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "H36M_TO_J17",
+        "kind": 5,
+        "importPath": "server.lib.utils.utils_smpl",
+        "description": "server.lib.utils.utils_smpl",
+        "peekOfCode": "H36M_TO_J17 = [6, 5, 4, 1, 2, 3, 16, 15, 14, 11, 12, 13, 8, 10, 0, 7, 9]\nH36M_TO_J14 = H36M_TO_J17[:14]\nclass SMPL(_SMPL):\n    \"\"\" Extension of the official SMPL implementation to support more joints \"\"\"\n    def __init__(self, *args, **kwargs):\n        super(SMPL, self).__init__(*args, **kwargs)\n        joints = [JOINT_MAP[i] for i in JOINT_NAMES]\n        self.smpl_mean_params = osp.join(args[0], 'smpl_mean_params.npz')\n        J_regressor_extra = np.load(osp.join(args[0], 'J_regressor_extra.npy'))\n        self.register_buffer('J_regressor_extra', torch.tensor(J_regressor_extra, dtype=torch.float32))",
+        "detail": "server.lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "H36M_TO_J14",
+        "kind": 5,
+        "importPath": "server.lib.utils.utils_smpl",
+        "description": "server.lib.utils.utils_smpl",
+        "peekOfCode": "H36M_TO_J14 = H36M_TO_J17[:14]\nclass SMPL(_SMPL):\n    \"\"\" Extension of the official SMPL implementation to support more joints \"\"\"\n    def __init__(self, *args, **kwargs):\n        super(SMPL, self).__init__(*args, **kwargs)\n        joints = [JOINT_MAP[i] for i in JOINT_NAMES]\n        self.smpl_mean_params = osp.join(args[0], 'smpl_mean_params.npz')\n        J_regressor_extra = np.load(osp.join(args[0], 'J_regressor_extra.npy'))\n        self.register_buffer('J_regressor_extra', torch.tensor(J_regressor_extra, dtype=torch.float32))\n        J_regressor_h36m = np.load(osp.join(args[0], 'J_regressor_h36m_correct.npy'))",
+        "detail": "server.lib.utils.utils_smpl",
+        "documentation": {}
+    },
+    {
+        "label": "render_and_save",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def render_and_save(motion_input, save_path, keep_imgs=False, fps=25, color=\"#F96706#FB8D43#FDB381\", with_conf=False, draw_face=False):\n    ensure_dir(os.path.dirname(save_path))\n    motion = copy.deepcopy(motion_input)\n    if motion.shape[-1]==2 or motion.shape[-1]==3:\n        motion = np.transpose(motion, (1,2,0))   #(T,17,D) -> (17,D,T) \n    if motion.shape[1]==2 or with_conf:\n        colors = hex2rgb(color)\n        if not with_conf:\n            J, D, T = motion.shape\n            motion_full = np.ones([J,3,T])",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "pixel2world_vis",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def pixel2world_vis(pose):\n#     pose: (17,2)\n    return (pose + [1, 1]) * 512 / 2\ndef pixel2world_vis_motion(motion, dim=2, is_tensor=False):\n#     pose: (17,2,N)\n    N = motion.shape[-1]\n    if dim==2:\n        offset = np.ones([2,N]).astype(np.float32)\n    else:\n        offset = np.ones([3,N]).astype(np.float32)",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "pixel2world_vis_motion",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def pixel2world_vis_motion(motion, dim=2, is_tensor=False):\n#     pose: (17,2,N)\n    N = motion.shape[-1]\n    if dim==2:\n        offset = np.ones([2,N]).astype(np.float32)\n    else:\n        offset = np.ones([3,N]).astype(np.float32)\n        offset[2,:] = 0\n    if is_tensor:\n        offset = torch.tensor(offset)",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "vis_data_batch",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def vis_data_batch(data_input, data_label, n_render=10, save_path='doodle/vis_train_data/'):\n    '''\n        data_input: [N,T,17,2/3]\n        data_label: [N,T,17,3]\n    '''\n    pathlib.Path(save_path).mkdir(parents=True, exist_ok=True) \n    for i in range(min(len(data_input), n_render)):\n        render_and_save(data_input[i][:,:,:2], '%s/input_%d.mp4' % (save_path, i))\n        render_and_save(data_label[i], '%s/gt_%d.mp4' % (save_path, i))\ndef get_img_from_fig(fig, dpi=120):",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "get_img_from_fig",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def get_img_from_fig(fig, dpi=120):\n    buf = io.BytesIO()\n    fig.savefig(buf, format=\"png\", dpi=dpi, bbox_inches=\"tight\", pad_inches=0)\n    buf.seek(0)\n    img_arr = np.frombuffer(buf.getvalue(), dtype=np.uint8)\n    buf.close()\n    img = cv2.imdecode(img_arr, 1)\n    img = cv2.cvtColor(img, cv2.COLOR_BGR2RGBA)\n    return img\ndef rgb2rgba(color):",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "rgb2rgba",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def rgb2rgba(color):\n    return (color[0], color[1], color[2], 255)\ndef hex2rgb(hex, number_of_colors=3):\n    h = hex\n    rgb = []\n    for i in range(number_of_colors):\n        h = h.lstrip('#')\n        hex_color = h[0:6]\n        rgb_color = [int(hex_color[i:i+2], 16) for i in (0, 2 ,4)]\n        rgb.append(rgb_color)",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "hex2rgb",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def hex2rgb(hex, number_of_colors=3):\n    h = hex\n    rgb = []\n    for i in range(number_of_colors):\n        h = h.lstrip('#')\n        hex_color = h[0:6]\n        rgb_color = [int(hex_color[i:i+2], 16) for i in (0, 2 ,4)]\n        rgb.append(rgb_color)\n        h = h[6:]\n    return rgb",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "joints2image",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def joints2image(joints_position, colors, transparency=False, H=1000, W=1000, nr_joints=49, imtype=np.uint8, grayscale=False, bg_color=(255, 255, 255)):\n#     joints_position: [17*2]\n    nr_joints = joints_position.shape[0]\n    if nr_joints == 49: # full joints(49): basic(15) + eyes(2) + toes(2) + hands(30)\n        limbSeq = [[0, 1], [1, 2], [1, 5], [1, 8], [2, 3], [3, 4], [5, 6], [6, 7], \\\n                   [8, 9], [8, 13], [9, 10], [10, 11], [11, 12], [13, 14], [14, 15], [15, 16],\n                   ]#[0, 17], [0, 18]] #ignore eyes\n        L = rgb2rgba(colors[0]) if transparency else colors[0]\n        M = rgb2rgba(colors[1]) if transparency else colors[1]\n        R = rgb2rgba(colors[2]) if transparency else colors[2]",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "motion2video",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def motion2video(motion, save_path, colors, h=512, w=512, bg_color=(255, 255, 255), transparency=False, motion_tgt=None, fps=25, save_frame=False, grayscale=False, show_progress=True, as_array=False):\n    nr_joints = motion.shape[0]\n#     as_array = save_path.endswith(\".npy\")\n    vlen = motion.shape[-1]\n    out_array = np.zeros([vlen, h, w, 3]) if as_array else None\n    videowriter = None if as_array else imageio.get_writer(save_path, fps=fps)\n    if save_frame:\n        frames_dir = save_path[:-4] + '-frames'\n        ensure_dir(frames_dir)\n    iterator = range(vlen)",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "motion2video_3d",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def motion2video_3d(motion, save_path, fps=25, keep_imgs = False):\n#     motion: (17,3,N)\n    videowriter = imageio.get_writer(save_path, fps=fps)\n    vlen = motion.shape[-1]\n    save_name = save_path.split('.')[0]\n    frames = []\n    joint_pairs = [[0, 1], [1, 2], [2, 3], [0, 4], [4, 5], [5, 6], [0, 7], [7, 8], [8, 9], [8, 11], [8, 14], [9, 10], [11, 12], [12, 13], [14, 15], [15, 16]]\n    joint_pairs_left = [[8, 11], [11, 12], [12, 13], [0, 4], [4, 5], [5, 6]]\n    joint_pairs_right = [[8, 14], [14, 15], [15, 16], [0, 1], [1, 2], [2, 3]]\n    color_mid = \"#00457E\"",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "motion2video_mesh",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def motion2video_mesh(motion, save_path, fps=25, keep_imgs = False, draw_face=True):\n    videowriter = imageio.get_writer(save_path, fps=fps)\n    vlen = motion.shape[-1]\n    draw_skele = (motion.shape[0]==17)\n    save_name = save_path.split('.')[0]\n    smpl_faces = get_smpl_faces()\n    frames = []\n    joint_pairs = [[0, 1], [1, 2], [2, 3], [0, 4], [4, 5], [5, 6], [0, 7], [7, 8], [8, 9], [8, 11], [8, 14], [9, 10], [11, 12], [12, 13], [14, 15], [15, 16]]\n    X, Y, Z = motion[:, 0], motion[:, 1], motion[:, 2]\n    max_range = np.array([X.max()-X.min(), Y.max()-Y.min(), Z.max()-Z.min()]).max() / 2.0",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "save_image",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def save_image(image_numpy, image_path):\n    image_pil = Image.fromarray(image_numpy)\n    image_pil.save(image_path)\ndef bounding_box(img):\n    a = np.where(img != 0)\n    bbox = np.min(a[0]), np.max(a[0]), np.min(a[1]), np.max(a[1])\n    return bbox",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "bounding_box",
+        "kind": 2,
+        "importPath": "server.lib.utils.vismo",
+        "description": "server.lib.utils.vismo",
+        "peekOfCode": "def bounding_box(img):\n    a = np.where(img != 0)\n    bbox = np.min(a[0]), np.max(a[0]), np.min(a[1]), np.max(a[1])\n    return bbox",
+        "detail": "server.lib.utils.vismo",
+        "documentation": {}
+    },
+    {
+        "label": "PoseResult",
+        "kind": 6,
+        "importPath": "server.src.mediapipe_lib.base",
+        "description": "server.src.mediapipe_lib.base",
+        "peekOfCode": "class PoseResult:\n    def __init__(self, kpts_3d_dict: dict):\n        self.kpts = kpts_3d_dict\n    def get_kpt_pos_by_index(self, idx: int, get_3d: bool = True) -> list[float]:\n        if 0 <= idx < len(KPT_LIST):\n            kpt_name = KPT_LIST[idx]\n            if kpt_name in self.kpts:\n                return list(self.kpts[kpt_name])\n        return None\n    def get_kpt_pos_by_name(self, kpt_name: str, get_3d: bool = True) -> list[float]:",
+        "detail": "server.src.mediapipe_lib.base",
+        "documentation": {}
+    },
+    {
+        "label": "ResultAnalyzer",
+        "kind": 6,
+        "importPath": "server.src.mediapipe_lib.base",
+        "description": "server.src.mediapipe_lib.base",
+        "peekOfCode": "class ResultAnalyzer:\n    def __init__(self, pose_result: PoseResult):\n        self.pose_result = pose_result\n    def get_center_position_by_2_hand(self, get_3d: bool = True) -> list[float]:\n        left_hand = np.array(self.pose_result.get_kpt_pos_by_name(\"left_wrist\", get_3d))\n        right_hand = np.array(self.pose_result.get_kpt_pos_by_name(\"right_wrist\", get_3d))\n        hand_center = (left_hand + right_hand) / 2\n        return hand_center.tolist()\n    def get_body_gravity_position(self, get_3d: bool = True) -> list[float]:\n        left_shoulder = self.pose_result.get_kpt_pos_by_name(\"left_shoulder\", get_3d)",
+        "detail": "server.src.mediapipe_lib.base",
+        "documentation": {}
+    },
+    {
+        "label": "PoseResult",
+        "kind": 6,
+        "importPath": "server.src.base",
+        "description": "server.src.base",
+        "peekOfCode": "class PoseResult:\n    \"\"\"通用 3D 姿勢物件結果 (適應 YOLO/MotionBERT 字典格式)\"\"\"\n    def __init__(self, kpts_3d_dict: dict):\n        self.kpts = kpts_3d_dict\n    def get_kpt_pos_by_index(self, idx: int, get_3d: bool = True) -> list[float]:\n        if 0 <= idx < len(KPT_LIST):\n            kpt_name = KPT_LIST[idx]\n            if kpt_name in self.kpts:\n                return list(self.kpts[kpt_name])\n        return None",
+        "detail": "server.src.base",
+        "documentation": {}
+    },
+    {
+        "label": "ResultAnalyzer",
+        "kind": 6,
+        "importPath": "server.src.base",
+        "description": "server.src.base",
+        "peekOfCode": "class ResultAnalyzer:\n    \"\"\"姿勢結果分析器 (已針對 3D 空間門檻優化)\"\"\"\n    def __init__(self, pose_result: PoseResult):\n        self.pose_result = pose_result\n    def get_center_position_by_2_hand(self, get_3d: bool = True) -> list[float]:\n        left_hand = np.array(self.pose_result.get_kpt_pos_by_name(\"left_wrist\", get_3d))\n        right_hand = np.array(self.pose_result.get_kpt_pos_by_name(\"right_wrist\", get_3d))\n        return ((left_hand + right_hand) / 2.0).tolist()\n    def get_body_gravity_position(self, get_3d: bool = True) -> list[float]:\n        left_shoulder = self.pose_result.get_kpt_pos_by_name(\"left_shoulder\", get_3d)",
+        "detail": "server.src.base",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_by_3_points",
+        "kind": 2,
+        "importPath": "server.src.calculate",
+        "description": "server.src.calculate",
+        "peekOfCode": "def get_angle_by_3_points(pos1: list, pos2: list, center_pos: list) -> float:\n    if pos1 is None or pos2 is None or center_pos is None:\n        return 0.0\n    p1, p2, c = np.array(pos1), np.array(pos2), np.array(center_pos)\n    vec1, vec2 = p1 - c, p2 - c\n    n1, n2 = np.linalg.norm(vec1), np.linalg.norm(vec2)\n    if n1 == 0 or n2 == 0:\n        return 0.0\n    cos_a = np.clip(np.dot(vec1, vec2) / (n1 * n2), -1.0, 1.0)\n    return float(np.degrees(np.arccos(cos_a)))",
+        "detail": "server.src.calculate",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_between_two_lines_position",
+        "kind": 2,
+        "importPath": "server.src.calculate",
+        "description": "server.src.calculate",
+        "peekOfCode": "def get_angle_between_two_lines_position(line1, line2) -> float:\n    pos1a, pos1b = np.array(line1[0]), np.array(line1[1])\n    pos2a, pos2b = np.array(line2[0]), np.array(line2[1])\n    vec1, vec2 = pos1a - pos1b, pos2a - pos2b\n    n1, n2 = np.linalg.norm(vec1), np.linalg.norm(vec2)\n    if n1 == 0 or n2 == 0:\n        return 0.0\n    cos_a = np.clip(np.dot(vec1, vec2) / (n1 * n2), -1.0, 1.0)\n    return float(np.degrees(np.arccos(cos_a)))\ndef get_dist_between_points(*point_list) -> float:",
+        "detail": "server.src.calculate",
+        "documentation": {}
+    },
+    {
+        "label": "get_dist_between_points",
+        "kind": 2,
+        "importPath": "server.src.calculate",
+        "description": "server.src.calculate",
+        "peekOfCode": "def get_dist_between_points(*point_list) -> float:\n    dist = 0.0\n    if len(point_list) > 1:\n        pt1 = point_list[0]\n        for pt2 in point_list[1:]:\n            dist += np.linalg.norm(np.array(pt1) - np.array(pt2))\n            pt1 = pt2\n    return float(dist)\ndef get_triangle_gravity_position(pos1, pos2, pos3) -> list:\n    return ((np.array(pos1) + np.array(pos2) + np.array(pos3)) / 3.0).tolist()",
+        "detail": "server.src.calculate",
+        "documentation": {}
+    },
+    {
+        "label": "get_triangle_gravity_position",
+        "kind": 2,
+        "importPath": "server.src.calculate",
+        "description": "server.src.calculate",
+        "peekOfCode": "def get_triangle_gravity_position(pos1, pos2, pos3) -> list:\n    return ((np.array(pos1) + np.array(pos2) + np.array(pos3)) / 3.0).tolist()\n# ==============================================================\n# ⭐ 核心修正區域：放寬 A5 (蹲姿) 門檻，讓它符合真實人體工學\n# ==============================================================\ndef angles_to_lhc_label(angles: dict) -> str:\n    if len(angles) <= 0:\n        return \"\"\n    # 自動抓取左右兩側最嚴重的角度來進行評分\n    min_knee = min(angles.get(\"left_knee\", 180), angles.get(\"right_knee\", 180))",
+        "detail": "server.src.calculate",
+        "documentation": {}
+    },
+    {
+        "label": "angles_to_lhc_label",
+        "kind": 2,
+        "importPath": "server.src.calculate",
+        "description": "server.src.calculate",
+        "peekOfCode": "def angles_to_lhc_label(angles: dict) -> str:\n    if len(angles) <= 0:\n        return \"\"\n    # 自動抓取左右兩側最嚴重的角度來進行評分\n    min_knee = min(angles.get(\"left_knee\", 180), angles.get(\"right_knee\", 180))\n    min_hip = min(angles.get(\"left_hip\", 180), angles.get(\"right_hip\", 180))\n    max_shoulder = max(angles.get(\"left_shoulder\", 0), angles.get(\"right_shoulder\", 0))\n    # A5: 蹲姿 (從嚴苛的 90 度放寬到符合真實半蹲的 120 度)\n    if min_knee < 120:\n        return \"A5\"",
+        "detail": "server.src.calculate",
+        "documentation": {}
+    },
+    {
+        "label": "angles_to_lhc_label_by_one_side",
+        "kind": 2,
+        "importPath": "server.src.calculate",
+        "description": "server.src.calculate",
+        "peekOfCode": "def angles_to_lhc_label_by_one_side(angles: dict, is_left=False) -> str:\n    if len(angles) <= 0: return \"\"\n    knee = angles.get(\"left_knee\", 180) if is_left else angles.get(\"right_knee\", 180)\n    hip = angles.get(\"left_hip\", 180) if is_left else angles.get(\"right_hip\", 180)\n    shoulder = angles.get(\"left_shoulder\", 0) if is_left else angles.get(\"right_shoulder\", 0)\n    # 同步放寬單側判斷的蹲姿門檻\n    if knee < 120: return \"A5\"\n    elif hip < 120: return \"A4\"\n    elif hip < 160: return \"A3\"\n    elif shoulder > 90: return \"A2\"",
+        "detail": "server.src.calculate",
+        "documentation": {}
+    },
+    {
+        "label": "label_list_to_label_list_rule",
+        "kind": 2,
+        "importPath": "server.src.calculate",
+        "description": "server.src.calculate",
+        "peekOfCode": "def label_list_to_label_list_rule(labels: list[str]) -> list:\n    result = []\n    buffer = None  \n    num = 1\n    for lab in labels:\n        if buffer is None: buffer = lab\n        elif buffer == lab: num += 1\n        else:\n            result.append([buffer, num]) \n            buffer = lab",
+        "detail": "server.src.calculate",
+        "documentation": {}
+    },
+    {
+        "label": "label_list_rule_to_label_list",
+        "kind": 2,
+        "importPath": "server.src.calculate",
+        "description": "server.src.calculate",
+        "peekOfCode": "def label_list_rule_to_label_list(label_list_rule: list) -> list[str]:\n    result = []\n    for label, num in label_list_rule:\n        result += [label] * int(num)\n    return result",
+        "detail": "server.src.calculate",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_by_3_points",
+        "kind": 2,
+        "importPath": "server.src.calculator",
+        "description": "server.src.calculator",
+        "peekOfCode": "def get_angle_by_3_points(pos1: list, pos2: list, center_pos: list) -> float:\n    if pos1 is None or pos2 is None or center_pos is None:\n        return 0.0\n    p1, p2, c = np.array(pos1), np.array(pos2), np.array(center_pos)\n    vec1, vec2 = p1 - c, p2 - c\n    n1, n2 = np.linalg.norm(vec1), np.linalg.norm(vec2)\n    if n1 == 0 or n2 == 0:\n        return 0.0\n    cos_a = np.clip(np.dot(vec1, vec2) / (n1 * n2), -1.0, 1.0)\n    return float(np.degrees(np.arccos(cos_a)))",
+        "detail": "server.src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_angle_between_two_lines_position",
+        "kind": 2,
+        "importPath": "server.src.calculator",
+        "description": "server.src.calculator",
+        "peekOfCode": "def get_angle_between_two_lines_position(line1, line2) -> float:\n    pos1a, pos1b = np.array(line1[0]), np.array(line1[1])\n    pos2a, pos2b = np.array(line2[0]), np.array(line2[1])\n    vec1, vec2 = pos1a - pos1b, pos2a - pos2b\n    n1, n2 = np.linalg.norm(vec1), np.linalg.norm(vec2)\n    if n1 == 0 or n2 == 0:\n        return 0.0\n    cos_a = np.clip(np.dot(vec1, vec2) / (n1 * n2), -1.0, 1.0)\n    return float(np.degrees(np.arccos(cos_a)))\ndef get_dist_between_points(*point_list) -> float:",
+        "detail": "server.src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_dist_between_points",
+        "kind": 2,
+        "importPath": "server.src.calculator",
+        "description": "server.src.calculator",
+        "peekOfCode": "def get_dist_between_points(*point_list) -> float:\n    dist = 0.0\n    if len(point_list) > 1:\n        pt1 = np.array(point_list[0])\n        for pt2 in point_list[1:]:\n            dist += np.linalg.norm(pt1 - np.array(pt2))\n            pt1 = np.array(pt2)\n    return float(dist)\ndef get_triangle_gravity_position(pos1, pos2, pos3) -> list:\n    return ((np.array(pos1) + np.array(pos2) + np.array(pos3)) / 3.0).tolist()",
+        "detail": "server.src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "get_triangle_gravity_position",
+        "kind": 2,
+        "importPath": "server.src.calculator",
+        "description": "server.src.calculator",
+        "peekOfCode": "def get_triangle_gravity_position(pos1, pos2, pos3) -> list:\n    return ((np.array(pos1) + np.array(pos2) + np.array(pos3)) / 3.0).tolist()\n# ==========================================\n# LHC 姿勢判定邏輯 (細分項版本)\n# ==========================================\ndef angles_to_lhc_label(angles: dict) -> str:\n    \"\"\"\n    將角度轉換成 LHC 姿勢細分標籤\n    \"\"\"\n    if len(angles) <= 0:",
+        "detail": "server.src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "angles_to_lhc_label",
+        "kind": 2,
+        "importPath": "server.src.calculator",
+        "description": "server.src.calculator",
+        "peekOfCode": "def angles_to_lhc_label(angles: dict) -> str:\n    \"\"\"\n    將角度轉換成 LHC 姿勢細分標籤\n    \"\"\"\n    if len(angles) <= 0:\n        return \"\"\n    # 自動抓取左右兩側最嚴重的角度來進行評分\n    min_knee = min(angles.get(\"left_knee\", 180), angles.get(\"right_knee\", 180))\n    min_hip = min(angles.get(\"left_hip\", 180), angles.get(\"right_hip\", 180))\n    max_shoulder = max(angles.get(\"left_shoulder\", 0), angles.get(\"right_shoulder\", 0))",
+        "detail": "server.src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "angles_to_lhc_label_by_one_side",
+        "kind": 2,
+        "importPath": "server.src.calculator",
+        "description": "server.src.calculator",
+        "peekOfCode": "def angles_to_lhc_label_by_one_side(angles: dict, is_left=False) -> str:\n    \"\"\"\n    單側角度轉換成 LHC 姿勢細分標籤\n    \"\"\"\n    if len(angles) <= 0: return \"\"\n    knee = angles.get(\"left_knee\", 180) if is_left else angles.get(\"right_knee\", 180)\n    hip = angles.get(\"left_hip\", 180) if is_left else angles.get(\"right_hip\", 180)\n    shoulder = angles.get(\"left_shoulder\", 0) if is_left else angles.get(\"right_shoulder\", 0)\n    if knee <= 30: return \"A5-3\"\n    elif knee <= 45: return \"A5-2\"",
+        "detail": "server.src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "label_list_to_label_list_rule",
+        "kind": 2,
+        "importPath": "server.src.calculator",
+        "description": "server.src.calculator",
+        "peekOfCode": "def label_list_to_label_list_rule(labels: list) -> list:\n    result = []\n    buffer = None  \n    num = 1\n    for lab in labels:\n        if buffer is None: buffer = lab\n        elif buffer == lab: num += 1\n        else:\n            result.append([buffer, num]) \n            buffer = lab",
+        "detail": "server.src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "label_list_rule_to_label_list",
+        "kind": 2,
+        "importPath": "server.src.calculator",
+        "description": "server.src.calculator",
+        "peekOfCode": "def label_list_rule_to_label_list(label_list_rule: list) -> list:\n    result = []\n    for label, num in label_list_rule:\n        result += [label] * int(num)\n    return result",
+        "detail": "server.src.calculator",
+        "documentation": {}
+    },
+    {
+        "label": "DrawKPT",
+        "kind": 2,
+        "importPath": "server.src.draw_diagram",
+        "description": "server.src.draw_diagram",
+        "peekOfCode": "def DrawKPT(landmarks, output_path):\n    xs = [lm.x for lm in landmarks]\n    ys = [-lm.y for lm in landmarks]\n    zs = [lm.z for lm in landmarks]\n    vs = [lm.visibility for lm in landmarks]\n    ps = [lm.presence for lm in landmarks]\n    fig = plt.figure(figsize=(15, 10))\n    ax = fig.add_axes([0.05, 0.08, 0.58, 0.84], projection='3d')\n    # 畫關鍵點\n    ax.scatter(xs, zs, ys, color='black', s=10)",
+        "detail": "server.src.draw_diagram",
+        "documentation": {}
+    },
+    {
+        "label": "DrawOverlay",
+        "kind": 2,
+        "importPath": "server.src.draw_diagram",
+        "description": "server.src.draw_diagram",
+        "peekOfCode": "def DrawOverlay(original_image, landmarks, output_path):\n    \"\"\"\n    用途:\n        用 mediapipe 畫出 BlazePose 的 Overlay 圖\n    參數:\n        original_image: 原始圖片\n        landmarks: pose_landmarks[0] (2D key points)\n        output_path: image 儲存位置\n    輸出:\n        Overlay 圖",
+        "detail": "server.src.draw_diagram",
+        "documentation": {}
+    },
+    {
+        "label": "WriteOutput",
+        "kind": 2,
+        "importPath": "server.src.draw_diagram",
+        "description": "server.src.draw_diagram",
+        "peekOfCode": "def WriteOutput(landmarks, isFirstWrite, frame, output_path):\n    \"\"\"\n    用途:\n        將 BlazePose 的關鍵點座標寫入 .txt 檔中\n    參數:\n        landmarks: pose_world_landmarks[0] (3D key points)\n        isFirstWrite: 是否第一次寫入\n        frame: 當前幀數\n        output_path: image 儲存位置\n    輸出:",
+        "detail": "server.src.draw_diagram",
+        "documentation": {}
+    },
+    {
+        "label": "POSE_CONNECTIONS",
+        "kind": 5,
+        "importPath": "server.src.draw_diagram",
+        "description": "server.src.draw_diagram",
+        "peekOfCode": "POSE_CONNECTIONS = frozenset([\n    (0, 1), (1, 2), (2, 3), (3, 7), (0, 4), (4, 5), (5, 6), (6, 8),\n    (9, 10), (11, 12), (11, 13), (13, 15), (15, 17), (15, 19), (15, 21),\n    (17, 19), (12, 14), (14, 16), (16, 18), (16, 20), (16, 22), (18, 20),\n    (11, 23), (12, 24), (23, 24), (23, 25), (24, 26), (25, 27), (26, 28),\n    (27, 29), (28, 30), (29, 31), (30, 32), (27, 31), (28, 32)\n])\ndef DrawKPT(landmarks, output_path):\n    xs = [lm.x for lm in landmarks]\n    ys = [-lm.y for lm in landmarks]",
+        "detail": "server.src.draw_diagram",
+        "documentation": {}
+    },
+    {
+        "label": "YOLOPoseEstimator",
+        "kind": 6,
+        "importPath": "server.src.model_wrappers",
+        "description": "server.src.model_wrappers",
+        "peekOfCode": "class YOLOPoseEstimator:\n    # ⭐ 這裡把 yolov8n-pose.pt 改成 yolo11n-pose.pt\n    def __init__(self, model_path='yolo11n-pose.pt', device='cpu'):\n        print(f\"Loading YOLO model from {model_path}...\")\n        self.model = YOLO(model_path)\n        self.device = device\n        self.last_kpts = None\n    def predict(self, frame):\n        results = self.model(frame, verbose=False, device=self.device)\n        annotated_frame = results[0].plot() if len(results) > 0 else frame.copy()",
+        "detail": "server.src.model_wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "MotionBERTEstimator",
+        "kind": 6,
+        "importPath": "server.src.model_wrappers",
+        "description": "server.src.model_wrappers",
+        "peekOfCode": "class MotionBERTEstimator:\n    def __init__(self, model_path, device='cpu'):\n        print(f\"Loading MotionBERT model from {model_path}...\")\n        self.device = device\n        self.model = DSTformer(dim_in=3, dim_out=3, dim_feat=512, dim_rep=512, \n                               depth=5, num_heads=8, mlp_ratio=2, \n                               maxlen=243, num_joints=17)\n        checkpoint = torch.load(model_path, map_location=self.device)\n        state_dict = checkpoint['model_pos'] if 'model_pos' in checkpoint else checkpoint\n        new_state_dict = {}",
+        "detail": "server.src.model_wrappers",
+        "documentation": {}
+    },
+    {
+        "label": "LineConnections",
+        "kind": 6,
+        "importPath": "server.src.value",
+        "description": "server.src.value",
+        "peekOfCode": "class LineConnections:\n    \"\"\"線條連接點\"\"\"\n    left_kpt: list[list[str]] = []  # 左邊關鍵點連接列表\n    right_kpt: list[list[str]] = []  # 右邊關鍵點連接列表\n    center_kpt: list[list[str]] = []  # 中間關鍵點連接列表\n    full_kpt: list[list[str]] = []  # 全關鍵點連接列表\n    def __init__(\n        self, left: list[list[str]], right: list[list[str]], center: list[list[str]]\n    ) -> None:\n        \"\"\"初始化物件",
+        "detail": "server.src.value",
+        "documentation": {}
+    },
+    {
+        "label": "coco_line",
+        "kind": 5,
+        "importPath": "server.src.value",
+        "description": "server.src.value",
+        "peekOfCode": "coco_line = LineConnections(\n    left=[\n        # 頭部\n        [\"nose\", \"left_eye\"], \n        [\"left_eye\", \"left_ear\"],\n        # 手部\n        [\"left_shoulder\", \"left_elbow\"], \n        [\"left_elbow\", \"left_wrist\"],\n        # 腰部、腳\n        [\"left_shoulder\", \"left_hip\"], ",
+        "detail": "server.src.value",
+        "documentation": {}
+    },
+    {
+        "label": "build_segments_skip_none",
+        "kind": 2,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "def build_segments_skip_none(arr):\n    segs = []\n    n = len(arr)\n    i = 0\n    while i < n:\n        if arr[i] is None:\n            i += 1\n            continue\n        j = i\n        while j + 1 < n and arr[j + 1] == arr[i]:",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "OUTPUT_DIR",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "OUTPUT_DIR = f\"./addition/test\" \nos.makedirs(OUTPUT_DIR, exist_ok=True)\n# ------------------ 資料 ------------------\nlabels_dict = {\n    \"V1\": [5,5,5,5,5,5,5,5,5,5,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3],\n    \"V2\": [3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],\n    \"V3\": [4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],\n    \"V4\": [5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],\n    \"V5\": [5,5,5,5,5,5,5,4,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],\n    \"V6\": [5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3],",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "labels_dict",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "labels_dict = {\n    \"V1\": [5,5,5,5,5,5,5,5,5,5,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3],\n    \"V2\": [3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],\n    \"V3\": [4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,1,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],\n    \"V4\": [5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,3,3,3,3,3,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],\n    \"V5\": [5,5,5,5,5,5,5,4,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],\n    \"V6\": [5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3],\n    \"V7\": [5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2],\n    \"V8\": [5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,4,4,4,4,4,4,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,4,4,4,4,4,4,4,4,4,4,4],\n    \"V9\": [5,5,5,5,5,5,5,5,5,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1],",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "filmName",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "filmName = f\"V{input('Enter film number (1-10): ')}\"\n# labels_original = [5,5,5,5,5,5,5,5,5,5,3,3,3,3,4,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3,3] # V1\n# labels_original = [5,5,5,5,5,5,5,4,4,3,3,3,3,3,3,3,3,3,3,3,1,1,1,3,3,1,1,1,1,1,2,2,3,3,2,3,3,2,2,2,2,2,2,3,2,3,3,3,2,2,2,2,2,2,2,2,2,3,3,3,2,2,2] # V5\nlabels_original = labels_dict[filmName]\nframe_counts = labels_original\ntotal_frames = len(frame_counts)\nprint(\"Total frames:\", total_frames)\npose_scores = {\n    (1, 1): 0, (1, 2): 3, (1, 3): 3, (1, 4): 7, (1, 5): 9,\n    (2, 2): 5, (2, 3): 5, (2, 4): 10, (2, 5): 13,",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "labels_original",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "labels_original = labels_dict[filmName]\nframe_counts = labels_original\ntotal_frames = len(frame_counts)\nprint(\"Total frames:\", total_frames)\npose_scores = {\n    (1, 1): 0, (1, 2): 3, (1, 3): 3, (1, 4): 7, (1, 5): 9,\n    (2, 2): 5, (2, 3): 5, (2, 4): 10, (2, 5): 13,\n    (3, 3): 5, (3, 4): 10, (3, 5): 13,\n    (4, 4): 15, (4, 5): 18,\n    (5, 5): 20",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "frame_counts",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "frame_counts = labels_original\ntotal_frames = len(frame_counts)\nprint(\"Total frames:\", total_frames)\npose_scores = {\n    (1, 1): 0, (1, 2): 3, (1, 3): 3, (1, 4): 7, (1, 5): 9,\n    (2, 2): 5, (2, 3): 5, (2, 4): 10, (2, 5): 13,\n    (3, 3): 5, (3, 4): 10, (3, 5): 13,\n    (4, 4): 15, (4, 5): 18,\n    (5, 5): 20\n}",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "total_frames",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "total_frames = len(frame_counts)\nprint(\"Total frames:\", total_frames)\npose_scores = {\n    (1, 1): 0, (1, 2): 3, (1, 3): 3, (1, 4): 7, (1, 5): 9,\n    (2, 2): 5, (2, 3): 5, (2, 4): 10, (2, 5): 13,\n    (3, 3): 5, (3, 4): 10, (3, 5): 13,\n    (4, 4): 15, (4, 5): 18,\n    (5, 5): 20\n}\n# ------------------ 畫原圖 ------------------",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "pose_scores",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "pose_scores = {\n    (1, 1): 0, (1, 2): 3, (1, 3): 3, (1, 4): 7, (1, 5): 9,\n    (2, 2): 5, (2, 3): 5, (2, 4): 10, (2, 5): 13,\n    (3, 3): 5, (3, 4): 10, (3, 5): 13,\n    (4, 4): 15, (4, 5): 18,\n    (5, 5): 20\n}\n# ------------------ 畫原圖 ------------------\nx = np.arange(len(labels_original))\nplt.figure(figsize=(8, 4.5))",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "x = np.arange(len(labels_original))\nplt.figure(figsize=(8, 4.5))\nplt.plot(x, labels_original, marker='o', linewidth=1)\nplt.xlabel('frame')\nplt.ylabel('pose', rotation='vertical')\nplt.grid(True)\nstep = 30\nplt.xticks(x[::step], rotation=45)\nplt.yticks([1, 2, 3, 4, 5], ['A1', 'A2', 'A3', 'A4', 'A5'])\nplt.ylim(0, 6)",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "step",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "step = 30\nplt.xticks(x[::step], rotation=45)\nplt.yticks([1, 2, 3, 4, 5], ['A1', 'A2', 'A3', 'A4', 'A5'])\nplt.ylim(0, 6)\nplt.tight_layout()\nplt.savefig(os.path.join(OUTPUT_DIR, f\"{filmName}_original.png\"))\nplt.close()\n# ============================================================\n# 第一階段：段落切割 + barrier 區間提升 keep（解決「短段被拆開但總長其實達標」）\n# 規則：",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "con",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "con = 12\ncsv = 90\nlabels = labels_original.copy()\nremoved_points = []\nlabel_changes = []\nvalid_frames = len(labels)\n# 1) 切成連續段落\nsegments = []  # dict: {start,end,label,len}\nstart = 0\nfor i in range(1, len(labels) + 1):",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "csv",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "csv = 90\nlabels = labels_original.copy()\nremoved_points = []\nlabel_changes = []\nvalid_frames = len(labels)\n# 1) 切成連續段落\nsegments = []  # dict: {start,end,label,len}\nstart = 0\nfor i in range(1, len(labels) + 1):\n    if i == len(labels) or labels[i] != labels[start]:",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "labels",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "labels = labels_original.copy()\nremoved_points = []\nlabel_changes = []\nvalid_frames = len(labels)\n# 1) 切成連續段落\nsegments = []  # dict: {start,end,label,len}\nstart = 0\nfor i in range(1, len(labels) + 1):\n    if i == len(labels) or labels[i] != labels[start]:\n        end = i - 1",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "removed_points",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "removed_points = []\nlabel_changes = []\nvalid_frames = len(labels)\n# 1) 切成連續段落\nsegments = []  # dict: {start,end,label,len}\nstart = 0\nfor i in range(1, len(labels) + 1):\n    if i == len(labels) or labels[i] != labels[start]:\n        end = i - 1\n        segments.append({",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "label_changes",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "label_changes = []\nvalid_frames = len(labels)\n# 1) 切成連續段落\nsegments = []  # dict: {start,end,label,len}\nstart = 0\nfor i in range(1, len(labels) + 1):\n    if i == len(labels) or labels[i] != labels[start]:\n        end = i - 1\n        segments.append({\n            \"start\": start,",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "valid_frames",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "valid_frames = len(labels)\n# 1) 切成連續段落\nsegments = []  # dict: {start,end,label,len}\nstart = 0\nfor i in range(1, len(labels) + 1):\n    if i == len(labels) or labels[i] != labels[start]:\n        end = i - 1\n        segments.append({\n            \"start\": start,\n            \"end\": end,",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "segments",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "segments = []  # dict: {start,end,label,len}\nstart = 0\nfor i in range(1, len(labels) + 1):\n    if i == len(labels) or labels[i] != labels[start]:\n        end = i - 1\n        segments.append({\n            \"start\": start,\n            \"end\": end,\n            \"label\": labels[start],\n            \"len\": i - start",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "start",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "start = 0\nfor i in range(1, len(labels) + 1):\n    if i == len(labels) or labels[i] != labels[start]:\n        end = i - 1\n        segments.append({\n            \"start\": start,\n            \"end\": end,\n            \"label\": labels[start],\n            \"len\": i - start\n        })",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "nseg",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "nseg = len(segments)\n# 2) keep 初始：第一段、最後段必保留；len>=con 也必保留（barrier）\nkeep = set()\nfor idx, seg in enumerate(segments):\n    if idx == 0 or idx == nseg - 1 or seg[\"len\"] >= con:\n        keep.add(idx)\n# 3) 迭代提升 keep：在 barrier 區間內，如果某 label 的總長 >= con，則該 label 在區間內全部保留\nchanged = True\nwhile changed:\n    changed = False",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "keep",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "keep = set()\nfor idx, seg in enumerate(segments):\n    if idx == 0 or idx == nseg - 1 or seg[\"len\"] >= con:\n        keep.add(idx)\n# 3) 迭代提升 keep：在 barrier 區間內，如果某 label 的總長 >= con，則該 label 在區間內全部保留\nchanged = True\nwhile changed:\n    changed = False\n    barriers = sorted(keep)\n    if len(barriers) < 2:",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "changed",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "changed = True\nwhile changed:\n    changed = False\n    barriers = sorted(keep)\n    if len(barriers) < 2:\n        break\n    for bi in range(len(barriers) - 1):\n        L = barriers[bi]\n        R = barriers[bi + 1]\n        idxs = [k for k in range(L + 1, R) if k not in keep]",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "remove",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "remove = set()\nfor idx, seg in enumerate(segments):\n    if idx not in keep and seg[\"len\"] < con:\n        remove.add(idx)\n# 5) 套用刪除：段落整段設 None\nfor idx in remove:\n    s, e = segments[idx][\"start\"], segments[idx][\"end\"]\n    seg_len = e - s + 1\n    valid_frames -= seg_len\n    for j in range(s, e + 1):",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "max_iters",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "max_iters = con         # 依你的想法：最多迭代到 con 輪\nmin_len = 6            # 要消掉的「短段」門檻：2~4 都常見（越大越狠）\nprotect_ends = True     # 保護第一段/最後段不動（延續規則1）\ndef build_segments_skip_none(arr):\n    segs = []\n    n = len(arr)\n    i = 0\n    while i < n:\n        if arr[i] is None:\n            i += 1",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "min_len",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "min_len = 6            # 要消掉的「短段」門檻：2~4 都常見（越大越狠）\nprotect_ends = True     # 保護第一段/最後段不動（延續規則1）\ndef build_segments_skip_none(arr):\n    segs = []\n    n = len(arr)\n    i = 0\n    while i < n:\n        if arr[i] is None:\n            i += 1\n            continue",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "protect_ends",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "protect_ends = True     # 保護第一段/最後段不動（延續規則1）\ndef build_segments_skip_none(arr):\n    segs = []\n    n = len(arr)\n    i = 0\n    while i < n:\n        if arr[i] is None:\n            i += 1\n            continue\n        j = i",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "filtered_x",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "filtered_x = [i for i, v in enumerate(labels) if v is not None]\nfiltered_y = [v for v in labels if v is not None]\n# ------------------ 產生 label_changes（以消抖後的結果重算段落）------------------\nlabel_changes = []\nmerged = []\nprev = None\nrun_len = 0\nfor v in labels:\n    if v is None:\n        continue",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "filtered_y",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "filtered_y = [v for v in labels if v is not None]\n# ------------------ 產生 label_changes（以消抖後的結果重算段落）------------------\nlabel_changes = []\nmerged = []\nprev = None\nrun_len = 0\nfor v in labels:\n    if v is None:\n        continue\n    if v == prev:",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "label_changes",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "label_changes = []\nmerged = []\nprev = None\nrun_len = 0\nfor v in labels:\n    if v is None:\n        continue\n    if v == prev:\n        run_len += 1\n    else:",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "merged",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "merged = []\nprev = None\nrun_len = 0\nfor v in labels:\n    if v is None:\n        continue\n    if v == prev:\n        run_len += 1\n    else:\n        if prev is not None:",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "prev",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "prev = None\nrun_len = 0\nfor v in labels:\n    if v is None:\n        continue\n    if v == prev:\n        run_len += 1\n    else:\n        if prev is not None:\n            merged.append((prev, run_len))",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "run_len",
+        "kind": 5,
+        "importPath": "server.filter",
+        "description": "server.filter",
+        "peekOfCode": "run_len = 0\nfor v in labels:\n    if v is None:\n        continue\n    if v == prev:\n        run_len += 1\n    else:\n        if prev is not None:\n            merged.append((prev, run_len))\n        prev = v",
+        "detail": "server.filter",
+        "documentation": {}
+    },
+    {
+        "label": "get_a_3d_pose_plot_image",
+        "kind": 2,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "def get_a_3d_pose_plot_image(kpts_3d_dict: dict, output_path: str, figsize=(fig_width, fig_height), view=default_view, dot_size=15, colors=(\"#000\", \"#f00\", \"#0f0\", \"#00f\")):\n    fig = plt.figure(figsize=figsize)\n    ax: Axes3D = fig.add_subplot(projection=\"3d\")\n    plot_range = 1.0 \n    ax.set_xlim(-plot_range, plot_range)\n    ax.set_ylim(-plot_range, plot_range) \n    ax.set_zlim(-plot_range, plot_range) \n    ax.set_box_aspect([1, 1, 1])\n    ax.view_init(view[0], view[1], view[2])\n    ax.set_xlabel(\"x\")",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "allowed_file",
+        "kind": 2,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "def allowed_file(filename):\n    return '.' in filename and filename.rsplit('.', 1)[1].lower() in server.config['ALLOWED_EXTENSIONS']\n@server.route('/')\ndef index():\n    return render_template('index.html')\n@server.route('/upload', methods=['POST'])\ndef upload():\n    if 'file' not in request.files:\n        return jsonify({\"error\": \"No file part\"}), 400\n    file = request.files['file']",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "def index():\n    return render_template('index.html')\n@server.route('/upload', methods=['POST'])\ndef upload():\n    if 'file' not in request.files:\n        return jsonify({\"error\": \"No file part\"}), 400\n    file = request.files['file']\n    if file.filename == '':\n        return redirect(request.url)\n    if file and allowed_file(file.filename):",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "upload",
+        "kind": 2,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "def upload():\n    if 'file' not in request.files:\n        return jsonify({\"error\": \"No file part\"}), 400\n    file = request.files['file']\n    if file.filename == '':\n        return redirect(request.url)\n    if file and allowed_file(file.filename):\n        timestamp = datetime.now().isoformat().replace(\":\", \"-\").replace(\".\", \"-\")\n        file_path = os.path.join(server.config['UPLOAD_FOLDER'], f\"{timestamp}.mp4\")\n        file.save(file_path)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "process_video",
+        "kind": 2,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "def process_video(video_path, timestamp):\n    checkPersonInScreen = False\n    try:\n        device = 'cuda' if torch.cuda.is_available() else 'cpu'\n        print(f\"[{timestamp}] Using compute device: {device}\")\n        yolo_estimator = YOLOPoseEstimator(model_path='yolov8n-pose.pt', device=device)\n        mbert_path = os.path.join(current_dir, 'models', 'motionbert_h36m.bin')\n        if not os.path.exists(mbert_path): raise FileNotFoundError(f\"找不到 MotionBERT 模型檔: {mbert_path}\")\n        mbert_estimator = MotionBERTEstimator(model_path=mbert_path, device=device)\n        cap = cv2.VideoCapture(video_path)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "current_dir",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "current_dir = os.path.dirname(os.path.realpath(__file__))\nparent_dir = os.path.dirname(current_dir)\nif current_dir not in sys.path: sys.path.insert(0, current_dir)\nif parent_dir not in sys.path: sys.path.insert(1, parent_dir)\n# 引入自定義的模組\nfrom src.mediapipe_lib.base import PoseResult, ResultAnalyzer\nfrom src.value import KPT_LIST, KPT_IDX_DICT, coco_line\nfrom src.model_wrappers import YOLOPoseEstimator, MotionBERTEstimator\n# 創建 Server\nserver = Flask(__name__)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "parent_dir",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "parent_dir = os.path.dirname(current_dir)\nif current_dir not in sys.path: sys.path.insert(0, current_dir)\nif parent_dir not in sys.path: sys.path.insert(1, parent_dir)\n# 引入自定義的模組\nfrom src.mediapipe_lib.base import PoseResult, ResultAnalyzer\nfrom src.value import KPT_LIST, KPT_IDX_DICT, coco_line\nfrom src.model_wrappers import YOLOPoseEstimator, MotionBERTEstimator\n# 創建 Server\nserver = Flask(__name__)\nCORS(server)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "server",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "server = Flask(__name__)\nCORS(server)\n# 設置 Server 的相關配置\nserver.config['UPLOAD_FOLDER'] = 'Uploads/'\nserver.config['ALLOWED_EXTENSIONS'] = {'mp4'}\nserver.config['KPT_FOLDER'] = 'kpt/'\nserver.config['JOINT_ANGLES_FOLDER'] = 'jointangles/'\nserver.config['OVERLAY_FOLDER'] = 'overlay/'\n# 創建 Server 相關的資料夾\nos.makedirs(server.config['UPLOAD_FOLDER'], exist_ok=True)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['UPLOAD_FOLDER']",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "server.config['UPLOAD_FOLDER'] = 'Uploads/'\nserver.config['ALLOWED_EXTENSIONS'] = {'mp4'}\nserver.config['KPT_FOLDER'] = 'kpt/'\nserver.config['JOINT_ANGLES_FOLDER'] = 'jointangles/'\nserver.config['OVERLAY_FOLDER'] = 'overlay/'\n# 創建 Server 相關的資料夾\nos.makedirs(server.config['UPLOAD_FOLDER'], exist_ok=True)\nos.makedirs('pose_change', exist_ok=True)\nos.makedirs(server.config['KPT_FOLDER'], exist_ok=True)\nos.makedirs(server.config['JOINT_ANGLES_FOLDER'], exist_ok=True)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['ALLOWED_EXTENSIONS']",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "server.config['ALLOWED_EXTENSIONS'] = {'mp4'}\nserver.config['KPT_FOLDER'] = 'kpt/'\nserver.config['JOINT_ANGLES_FOLDER'] = 'jointangles/'\nserver.config['OVERLAY_FOLDER'] = 'overlay/'\n# 創建 Server 相關的資料夾\nos.makedirs(server.config['UPLOAD_FOLDER'], exist_ok=True)\nos.makedirs('pose_change', exist_ok=True)\nos.makedirs(server.config['KPT_FOLDER'], exist_ok=True)\nos.makedirs(server.config['JOINT_ANGLES_FOLDER'], exist_ok=True)\nos.makedirs(server.config['OVERLAY_FOLDER'], exist_ok=True)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['KPT_FOLDER']",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "server.config['KPT_FOLDER'] = 'kpt/'\nserver.config['JOINT_ANGLES_FOLDER'] = 'jointangles/'\nserver.config['OVERLAY_FOLDER'] = 'overlay/'\n# 創建 Server 相關的資料夾\nos.makedirs(server.config['UPLOAD_FOLDER'], exist_ok=True)\nos.makedirs('pose_change', exist_ok=True)\nos.makedirs(server.config['KPT_FOLDER'], exist_ok=True)\nos.makedirs(server.config['JOINT_ANGLES_FOLDER'], exist_ok=True)\nos.makedirs(server.config['OVERLAY_FOLDER'], exist_ok=True)\nwarnings.filterwarnings(\"ignore\")",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['JOINT_ANGLES_FOLDER']",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "server.config['JOINT_ANGLES_FOLDER'] = 'jointangles/'\nserver.config['OVERLAY_FOLDER'] = 'overlay/'\n# 創建 Server 相關的資料夾\nos.makedirs(server.config['UPLOAD_FOLDER'], exist_ok=True)\nos.makedirs('pose_change', exist_ok=True)\nos.makedirs(server.config['KPT_FOLDER'], exist_ok=True)\nos.makedirs(server.config['JOINT_ANGLES_FOLDER'], exist_ok=True)\nos.makedirs(server.config['OVERLAY_FOLDER'], exist_ok=True)\nwarnings.filterwarnings(\"ignore\")\n# 仰角降到 10 度 (平視)，視角只微轉 10 度 (保留正面的直覺)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "server.config['OVERLAY_FOLDER']",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "server.config['OVERLAY_FOLDER'] = 'overlay/'\n# 創建 Server 相關的資料夾\nos.makedirs(server.config['UPLOAD_FOLDER'], exist_ok=True)\nos.makedirs('pose_change', exist_ok=True)\nos.makedirs(server.config['KPT_FOLDER'], exist_ok=True)\nos.makedirs(server.config['JOINT_ANGLES_FOLDER'], exist_ok=True)\nos.makedirs(server.config['OVERLAY_FOLDER'], exist_ok=True)\nwarnings.filterwarnings(\"ignore\")\n# 仰角降到 10 度 (平視)，視角只微轉 10 度 (保留正面的直覺)\ndefault_view = (10, -80, 0)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "default_view",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "default_view = (10, -80, 0)\nfig_width = 15\nfig_height = 15\ndef get_a_3d_pose_plot_image(kpts_3d_dict: dict, output_path: str, figsize=(fig_width, fig_height), view=default_view, dot_size=15, colors=(\"#000\", \"#f00\", \"#0f0\", \"#00f\")):\n    fig = plt.figure(figsize=figsize)\n    ax: Axes3D = fig.add_subplot(projection=\"3d\")\n    plot_range = 1.0 \n    ax.set_xlim(-plot_range, plot_range)\n    ax.set_ylim(-plot_range, plot_range) \n    ax.set_zlim(-plot_range, plot_range) ",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "fig_width",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "fig_width = 15\nfig_height = 15\ndef get_a_3d_pose_plot_image(kpts_3d_dict: dict, output_path: str, figsize=(fig_width, fig_height), view=default_view, dot_size=15, colors=(\"#000\", \"#f00\", \"#0f0\", \"#00f\")):\n    fig = plt.figure(figsize=figsize)\n    ax: Axes3D = fig.add_subplot(projection=\"3d\")\n    plot_range = 1.0 \n    ax.set_xlim(-plot_range, plot_range)\n    ax.set_ylim(-plot_range, plot_range) \n    ax.set_zlim(-plot_range, plot_range) \n    ax.set_box_aspect([1, 1, 1])",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "fig_height",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "fig_height = 15\ndef get_a_3d_pose_plot_image(kpts_3d_dict: dict, output_path: str, figsize=(fig_width, fig_height), view=default_view, dot_size=15, colors=(\"#000\", \"#f00\", \"#0f0\", \"#00f\")):\n    fig = plt.figure(figsize=figsize)\n    ax: Axes3D = fig.add_subplot(projection=\"3d\")\n    plot_range = 1.0 \n    ax.set_xlim(-plot_range, plot_range)\n    ax.set_ylim(-plot_range, plot_range) \n    ax.set_zlim(-plot_range, plot_range) \n    ax.set_box_aspect([1, 1, 1])\n    ax.view_init(view[0], view[1], view[2])",
+        "detail": "server.server",
+        "documentation": {}
+    }
+]
