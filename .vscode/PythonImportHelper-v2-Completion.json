@@ -2656,7 +2656,16 @@
         "kind": 5,
         "importPath": "server.server",
         "description": "server.server",
-        "peekOfCode": "default_view = (10, -80, 0)\nfig_width = 15\nfig_height = 15\ndef get_a_3d_pose_plot_image(kpts_3d_dict: dict, output_path: str, figsize=(fig_width, fig_height), view=default_view, dot_size=15, colors=(\"#000\", \"#f00\", \"#0f0\", \"#00f\")):\n    fig = plt.figure(figsize=figsize)\n    ax: Axes3D = fig.add_subplot(projection=\"3d\")\n    plot_range = 1.0 \n    ax.set_xlim(-plot_range, plot_range)\n    ax.set_ylim(-plot_range, plot_range) \n    ax.set_zlim(-plot_range, plot_range) ",
+        "peekOfCode": "default_view = (10, -80, 0)\n#轉側面\n#default_view = (10, 0, 0)\nfig_width = 15\nfig_height = 15\ndef get_a_3d_pose_plot_image(kpts_3d_dict: dict, output_path: str, figsize=(fig_width, fig_height), view=default_view, dot_size=15, colors=(\"#000\", \"#f00\", \"#0f0\", \"#00f\")):\n    fig = plt.figure(figsize=figsize)\n    ax: Axes3D = fig.add_subplot(projection=\"3d\")\n    plot_range = 1.0 \n    ax.set_xlim(-plot_range, plot_range)",
+        "detail": "server.server",
+        "documentation": {}
+    },
+    {
+        "label": "#default_view",
+        "kind": 5,
+        "importPath": "server.server",
+        "description": "server.server",
+        "peekOfCode": "#default_view = (10, 0, 0)\nfig_width = 15\nfig_height = 15\ndef get_a_3d_pose_plot_image(kpts_3d_dict: dict, output_path: str, figsize=(fig_width, fig_height), view=default_view, dot_size=15, colors=(\"#000\", \"#f00\", \"#0f0\", \"#00f\")):\n    fig = plt.figure(figsize=figsize)\n    ax: Axes3D = fig.add_subplot(projection=\"3d\")\n    plot_range = 1.0 \n    ax.set_xlim(-plot_range, plot_range)\n    ax.set_ylim(-plot_range, plot_range) \n    ax.set_zlim(-plot_range, plot_range) ",
         "detail": "server.server",
         "documentation": {}
     },

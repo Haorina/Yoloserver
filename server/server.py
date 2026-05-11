@@ -52,6 +52,8 @@ warnings.filterwarnings("ignore")
 
 # 仰角降到 10 度 (平視)，視角只微轉 10 度 (保留正面的直覺)
 default_view = (10, -80, 0)
+#轉側面
+#default_view = (10, 0, 0)
 fig_width = 15
 fig_height = 15
 
